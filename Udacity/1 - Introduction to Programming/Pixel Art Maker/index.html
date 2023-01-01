@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dustin's Pixel Art Maker!</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Monoton">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Dustin's</h1>
+    <h1>Pixel Art Maker</h1>
+
+    <h2>Choose Grid Size</h2>
+    <p>Enter how large youw would like your grid</p>
+    <p>Minimum: 1 | Maximum: 25</p>
+    <form id="sizePicker">
+        Grid Height:
+        <input type="number" id="inputHeight" name="height" min="1" value="5" max="25">
+        Grid Width:
+        <input type="number" id="inputWidth" name="width" min="1" value="5" max="25">
+        <input type="submit">
+    </form>
+
+    <h2>Choose A Color</h2>
+    <input type="color" id="colorPicker">
+
+    <h2>Make Your Canvas Colorful</h2>
+    <p>Show off your artistic skills</p>
+    <p>To clear the board, click the "Submit" button again</p>
+    <table id="pixelCanvas"></table>
+
+    <script src="designs.js"></script>
+</body>
+</html>
