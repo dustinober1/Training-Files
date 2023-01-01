@@ -1,0 +1,7 @@
+- In traditional programming, a programmer has to formulate or code rules manually, whereas, in Machine Learning, the algorithm automatically formulates the rules from the data.
+- Labeling typically takes a set of unlabeled data and augments each piece of it with informative tags.
+- In Keras, dense is used to define a layer of connected neurons.
+- An optimization problem seeks to minimize a loss function.
+- The optimizer figures out the next guess based on the loss function.
+- The training takes place on the fit command.
+- Convergence is when guesses get better and better closing to a 100% accuracy.
