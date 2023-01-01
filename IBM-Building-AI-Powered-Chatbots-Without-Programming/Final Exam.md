@@ -1,0 +1,11 @@
+# Final Exam
+- Text and audio are two common ways through which chatbots interact with the user.
+- To be called a chatbot, a bot needs to converse with the user.
+- Chatbots can help cut down the number of inquiries a business' customer care team needs to manually address.
+- Watson Assistant is a chatbot building service hosted on IBM Cloud.
+- Entities are detected in the current user input.
+- We can use context variables to store (and later access) information collected from the user.
+- Slots allow us to collect information from the user and store it in context variables.
+- The evaluation of peer nodes proceeds top to bottom until a node with a matching condition is found. Child nodes are only considered for execution after their parent's condition is met (or if a jump is involved.)
+- Digressions allow users to divert the conversation away from a slot while it's asking its question.
+- 

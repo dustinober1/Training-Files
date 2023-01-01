@@ -1,0 +1,66 @@
+[MUSIC] Can you talk about some of
+the applications of AI? >> There's all kind of different
+applications, obviously, there's healthcare, there's finance. The one that's closest to my heart,
+of course, is robotics and automation. Where the AI technologies really help
+us to improve our abilities to perceive the environment around the robot and to make plans in unpredictable
+environments as they're changing. >> There's a great book out by an author,
+it was Kelvin Kelly, and he is an editor for the Wired magazine,
+he's written a great book about technologies that are going to
+be changing shaping our world, specifically 12 technologies. And he's got a fantastic definition in the
+book about specifically how AI is going to permeate our everyday life and it's
+all summarized in one excellent quote. So he says that the business cases for the next 10,000 startups
+are easy to predict, I have x and I will add AI to my x. The way I understand that
+is it's basically a notion that AI in one shape, way or
+form, in any shape or form, is going to permeate every
+aspect of human endeavor. Everything we do, everything we
+touch is going to be enhanced by AI. We have great benefits from taking
+any device, any machine, and make it just a little bit smarter. The benefit of that is just
+adding a bit of smarts to it, a bit of intelligence to it is
+exponential in its benefit. >> So we work a lot with some
+really fun applications of AI. We do a couple of different
+things in the lab that I run. We work on self-driving vehicles as one
+aspect, so autonomy for self-driving. Which requires a lot of AI for
+the vision systems, for the navigational intelligence, for the planning and
+control aspects of the car, we do that. And we also have a large research program
+in what are called collaborative robotics, or cobots. So robots that are designed to work in and
+around and with people. And that presents a lot of challenges,
+because we want the robots to act intelligently and to interface
+with humans in a way that is natural. And that requires understanding how people
+behave, which requires intelligence. In addition to those,
+there are a myriad of other applications, drug discovery, medical treatments for
+cancer and other diseases. So a bunch of extremely
+exciting applications. >> I mean I think the general use of AI so far has been taking large data sets,
+and making sense of them. And doing some sort of processing
+with that data in real time. That's what we've been doing, and that's what we've seen most effective,
+in terms of creating some sort of larger scale impact in healthcare
+beyond just having a siloed device. And we've been seeing
+that across the board, across the whole healthcare spectrum. >> We use AI all the time, and a lot of
+the times we're not even aware of it. We use AI every time we type in
+a search query on a search engine, every time we use our GPS. Or every time we use some kind
+of voice recognition system. >> I like to focus on
+a particular segment of AI, if that's okay, around computer vision. Because it's just particularly
+fascinating to me. Now, when we think of computer vision,
+they're looking at AI in ways to help augment, or to help automate or to help
+train computers to do something that's already very difficult
+to train humans to do. Like when it comes to the airport,
+trying to find weapons within luggage through the X-ray scanner,
+now that could be difficult to do. No matter how much you train someone
+that can be very difficult to identify. But with computer vision that can
+help to automate, help to augment, help to flag, certain X-ray images so
+that maybe even humans can just take a look at a filtered set of images,
+not all of the images right? So computer vision is very disruptive. And so there's many ways in which computer
+vision can really help to augment the capabilities of humans in
+lots of different industries. >> Now I mean applications of
+AI are really all around us. There's no limit to really what we're
+doing with artificial intelligence. When you do practically anything on any
+technology, you're most probably using some form of what we call machine
+learning or artificial intelligence. For example, when you check your email. Doing something as simple
+as checking your email. Spam filtering has been done for
+years with machine learning technology. More recently, Google came out with their features that
+enable you to do smart email compositions. So you can actually have text written for you on the fly as you're
+writing your email. Your subjects are automatically written
+as well, it'll recommend to you who you should be sending the email to,
+see if you missed someone. All of these things are powered
+by machine learning. But some of the main areas where I believe
+machine learning technology can make an impact are the fields of
+health care and education. [MUSIC]

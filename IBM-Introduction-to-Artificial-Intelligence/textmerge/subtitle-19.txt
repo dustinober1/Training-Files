@@ -1,0 +1,42 @@
+[MUSIC] Welcome to AI ethics, governance, and ESG. In this video, you will learn about what
+AI governance is and what it accomplishes, what ESG is and what it accomplishes, and how governance and
+ESG connect to AI ethics? Governance is the organization's act
+of governing through its corporate instructions, staff, its processes and
+systems to direct, evaluate, and monitor, and to take corrective
+action throughout the AI lifecycle to provide assurance that an AI system
+is operating as an organization intends it to, and as stakeholders expected to, and
+as may be required by relevant regulation. The objective of governance is to
+deliver trustworthy AI by establishing requirements for accountability,
+responsibility and oversight. Governance provides many benefits,
+including, for example, trust. When AI activities
+are aligned with values organizations can build systems
+that are transparent, fair and trustworthy, boosting client
+satisfaction and brand reputation. Another benefit is efficiency, when AI
+activities are standardized and optimized development can happen with greater
+efficiency, accelerating time to market. And compliance, when AI activities
+are already managed and monitored, adjusting them to align with new and
+forthcoming industry regulations and legal requirements is
+really less cumbersome. The successful governance program takes
+into account people, processes, and tools. It clearly defines the roles and responsibilities of people,
+in building and managing trustworthy AI, including leaders who will set
+policies and establish accountability. It establishes processes, for building, managing, monitoring and
+communicating about AI. And it leverages tools to
+gain greater visibility and consistency into AI system performance
+throughout the AI lifecycle. ESG stands for
+environmental social governance, and these are factors that are used to
+measure all non financial risks and opportunities at companies. At IBM, that translates into IBM impact,
+our strategy and philosophy on ESG. IBM impact is comprised of three pillars, that we believe will create
+a more sustainable future. These pillars are environmental impact,
+equitable impact, and ethical impact. And we accomplish this by making
+a lasting positive impact, in the world in business ethics,
+our environment, and in the communities in which we work and
+live. The governance aspect of ESG
+pertains to creating innovations, policies and
+practices that prioritize ethics, trust, transparency and
+above all accountability. And AI ethics is a significant aspect
+of our governance initiatives. For example,
+in 2022 we're aiming to reach 1,000 ecosystem partners trained in tech ethics. This goal matters because we
+believe the benefits of AI, should touch the many and
+not just the few. And developing a culture of
+trustworthy AI must happen everywhere, not just within IBM. We're leading the way in AI ethics as we
+aspire to create a more ethical future. [MUSIC]

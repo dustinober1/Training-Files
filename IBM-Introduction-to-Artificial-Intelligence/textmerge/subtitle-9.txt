@@ -1,0 +1,29 @@
+[MUSIC] While Machine Learning is a subset
+of Artificial Intelligence, Deep Learning is a specialized
+subset of Machine Learning. Deep Learning layers algorithms
+to create a Neural Network, an artificial replication of the structure
+and functionality of the brain, enabling AI systems to continuously learn
+on the job and improve the quality and accuracy of results. This is what enables these systems to
+learn from unstructured data such as photos, videos, and audio files. Deep Learning, for example, enables natural language understanding
+capabilities of AI systems, and allows them to work out the context
+and intent of what is being conveyed. Deep learning algorithms do not
+directly map input to output. Instead, they rely on several
+layers of processing units. Each layer passes its output to
+the next layer, which processes it and passes it to the next. The many layers is why
+it’s called deep learning. When creating deep learning algorithms,
+developers and engineers configure the number of layers
+and the type of functions that connect the outputs of each layer
+to the inputs of the next. Then they train the model by providing
+it with lots of annotated examples. For instance, you give a deep learning
+algorithm thousands of images and labels that correspond to
+the content of each image. The algorithm will run the those examples
+through its layered neural network, and adjust the weights of the variables
+in each layer of the neural network to be able to detect the common patterns that
+define the images with similar labels. Deep Learning fixes one of
+the major problems present in older generations of learning algorithms. While the efficiency and performance of machine learning
+algorithms plateau as the datasets grow, deep learning algorithms continue to
+improve as they are fed more data. Deep Learning has proven to be
+very efficient at various tasks, including image captioning,
+voice recognition and transcription, facial recognition, medical imaging,
+and language translation. Deep Learning is also one of the main
+components of driverless cars. [MUSIC]

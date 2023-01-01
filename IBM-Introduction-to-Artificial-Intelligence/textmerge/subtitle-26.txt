@@ -1,0 +1,69 @@
+(Music) So what advice would
+you give to someone who's looking to get
+into a career in AI. Yes absolutely. I had
+a bit of an unusual route becoming a data scientist or
+an AI specialists myself. I have a background in psychology
+so when I was studying, I was basically thinking
+of continuing to do academic research and
+not going to industry. But at some point in
+time, I had a realization that I didn't really want
+to become a professor. I didn't really want to teach or do research in
+an academic setting. I started looking for
+jobs and it was quite difficult because what we see today is sometimes what you'll learn in
+university doesn't translate directly into
+what companies want. So how do you bridge
+that gap exactly? For me, when I was at the time
+still in Tokyo, Japan, I didn't have a lot of
+resources around me or English speaking resources at the time where I could
+develop my skills. So I looked towards
+online courses and online courses helped me
+practice python, practice R, my data analysis skills through programming and I was able to develop a foundation
+in the skill set that was highly sought after by
+many different companies. Then from there,
+the question became, okay, now I have these skills, these newly developed
+skills through these courses that
+I've taken online, how do I translate that
+to something that I can show and demonstrate to
+potential employers? So then the next problem I
+had to deal with was, well, how do I demonstrate
+that some way? So I created a portfolio of different online
+assignment exercises projects to demonstrate that I could do the kinds of
+things that they were hoping that I could do to
+show my competency. I also when I came back
+to Toronto, Canada, I started doing meet ups to
+teach at these meet ups, teach R, teach Python,
+teach data science. Again, further demonstrate my competencies so that
+people could really see that I could do what I
+was claiming that I could do. Which was a little bit
+difficult because people would just look at
+my resume and you see, oh, you have a background psychology, what does that have to do
+with data science or AI? So it was hard in
+that sense that had to overcome that burden of proof. The final piece of advice
+that I would give is connect with fellow local AI specialists. Whether they are data scientists, specialists at
+particular field of AI, machine learning researchers,
+data engineers, just to get a better sense of what kind of AI
+specialists you might be interested in becoming
+because today there's so many different kinds
+of AI specialists. You could be very technical. You could be doing research on the latest state-of-the-art
+algorithms or you could be doing
+something a bit more business-oriented, like trying to optimize revenue, maybe some reporting as well. Trying to find ways
+to personalize a particular service to each and every kind of user
+that you might have. There's different aspects of
+AI and I think it's really important to have some clarity into what kind of role and
+what kind of job you want. The first step to do that
+is to be able to reach out and ask questions to people, who are
+already in the field. It's a great way to get a sense
+and also maybe even form some connections that
+might be meaningful in your career as well. Those
+are the four things. Number one is, acquire
+skills, wherever you can. Always be open to learning
+new things and new skills. Number two is demonstrate your capabilities through
+projects, exercises. Something that you
+can share online. Even blog posts and articles. Number three, if you can
+teach at meet ups or maybe even more ideally
+conferences, so you can demonstrate your
+competencies in public. Then number four is going to be try to connect with
+local experts or local specialists who are already in the field
+so you can get a better sense,
+what that career kind of road map might
+look like for you. (Music)

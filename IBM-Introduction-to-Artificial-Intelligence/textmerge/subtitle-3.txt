@@ -1,0 +1,48 @@
+(Music) Can you talk about AI in action. To give an example of say machine learning in action today, how companies have
+actually implemented it, there's one example that I
+always love to go back to, and it is the example
+of Woodside Energy, a company in the Australia
+New Zealand region. Now originally, they actually contacted IBM because they wanted the IBM to be able to create essentially a system
+that can understand the different documents and the research that they're
+engineers come up with, and have Watson and
+understand that, and essentially replace some of the engineers on their team. IBM actually went ahead and build the application
+that worked to Watson was able to understand
+that unstructured content, but they never ended up replacing
+any of their engineers. Instead, they actually ended
+up hiring more engineers, because now they realized
+that two things. First of all, the barrier of entry for each engineer is now lower and knowledge can now be shared more effectively
+among the teams. Because now instead of
+research being written and put into an archive drawer where it's never seen again, Watson's ingesting that data, understanding it and providing
+it to whoever needs it, whoever Watson thinks
+would need that data. So if you imagine in
+these TV shows and in these movie scenes as
+well, you have sometimes, if someone's looking for
+a particular suspect in this particular traffic
+intersection or whatnot, if passed through
+this intersection, and there's of course
+some cameras around. So we have the
+security guard maybe, trying to look through
+hours and hours, dozens and hundreds
+of hours of footage, maybe at 10x speed and find that particular black SUV
+or that green car. Then as soon as they find it at the end of the episode
+or whatnot, then say aha, we
+found that person. But if you had some sort of
+computer vision algorithm running on this video for
+just the entire time, then you wouldn't have
+a need for some person to have to manually watch through hours and
+hours of footage. Our specific use case is actually triggering new neural pathways
+in the brain to form. As you can imagine, there's a lot of information
+that happens there between the connection of how your body functions and
+how your brain functions, and what parts of
+the brain are damage, what parts of the brain
+aren't damaged, and how you're actually moving
+the person or how you're triggering certain things
+in the human body to happen in order for
+new neural pathways to form. So what we've done is actually, we've created massive data sets of information of
+how people move, and how that responds to
+different areas of the brain. Through that information,
+we're able to trigger specific movements
+with a robotic device, which in turn creates these neural pathways
+to form in the brain, and therefore
+recovering the person who suffered
+a neurological trauma. (Music)

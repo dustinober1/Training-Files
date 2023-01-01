@@ -1,0 +1,63 @@
+(Music) So, can you talk
+about advice for people who want to get into AI,
+especially the teenagers like you or other students were fascinated by technology
+and AI. So really what I believe, first of all,
+is I mean I've seen a lot of misconceptions about AI, really wherever I
+go. Whenever people ask me,
+"How can I get into the field of machine learning or AI?"
+There are lots of misconceptions, they feel like machine learning has its own
+independent, isolated subject, and if I learn it,
+I can go ahead and implement machine learning algorithms with these things.
+But really if you think about it, machine learning is just another algorithm
+in the toolbox of algorithms, when it comes to
+programming. Albeit in some cases, it can be
+much more powerful than other algorithms, and then on a very fundamental level,
+it is another algorithm. So before you get into the field of machine
+learning, before you get into the field of AI,
+it's very important that you understand how to code.
+Since machine learning is relatively complex technology,
+having a very advanced knowledge of how computers work; how exactly coding works.
+Then even sometimes a back-ends behind compilers, really does help you on your journey of
+learning how to code machine learning algorithms. The reason I say this is because machine learning
+isn't just a regular algorithm that you implement, its not just path finding
+or search or something of that sort. It's special because it
+requires intense hardware acceleration. It requires you to understand
+at least a little bit of the calculus that goes behind backpropagation.
+All of this is necessary to understand the fundamental workings of machine learning
+and AI. So really to summarize
+what I'd recommend is first of all, you should be passionate about technology
+itself. If you're not passionate about
+technology, machine learning technology, it really isn't something that you should
+go and work towards. Then from there, once you know that you're
+passionate about it, you want to do it. Then go ahead and start off by
+learning concepts in the field of technology. Learn how to code in languages like Python,
+Julia as a new language, SWIFT because of the new SWIFT for TensorFlow
+project. Then from there, go ahead and learn a little
+bit at least of the actual math behind neural networks.
+I mean, I remember when I stumbled upon Watson, that was the first time I ever heard of machine
+learning. When I went from Watson to custom neural networks,
+the first thing I did is I actually drew a small neural network on paper,
+and in the backpropagation, manually to understand how exactly weights
+are updated, how a loss values work, all these sorts of
+things. Once you have that fundamental understanding,
+then you go ahead to implement those neural networks from scratch and your
+languages. Then once you have
+a good idea of how it works, once you practice. Once you learn by example,
+then you're finally ready to go ahead and use different libraries,
+use different toolkits to enable you to rapidly prototype and build applications
+in the field of machine learning. So that's a very very high level view point,
+that I'd say to get into machine learning, but of course,
+there are better ways and more intuitive ways to get into machine learning
+as well. For example, Watson, if you take a look at
+how it provides its APIs on the cloud,
+you don't need to understand any of the workings behind machine learning to use
+Watson, and at the same time,
+you can still leverage all those powerful capabilities,
+the language translator. Lets you use practically state of the art,
+neural machine translation techniques, and even train your own models without having
+to understand a single clue
+behind what goes behind the models. So being able to start off with a toolkit
+like Watson, getting a good idea of
+both programming and machine learning at once, what machine learning is and isn't capable
+of. Then getting to the custom math, is another
+great way. (Music)

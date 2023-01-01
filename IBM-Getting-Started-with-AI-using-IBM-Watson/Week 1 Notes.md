@@ -1,0 +1,37 @@
+# Watson AI Overview
+
+## Enciching Customer Service
+- Using Ava, powered by Watson, Autodesk has brought the  cost of servicing a customer query has gone down from 15 and 200 dollars per case to a dollar per case. 
+- Customer satisfaction reported for Ava interactions is the same as that with human interactions.
+- Using Ava, powered by Watson, Autodesk has brought the resolution time down from 38 hours to 5minutes. 
+
+## Assisting in Compliance Oriented Business Processes
+- Watson analyzed and organized the unstructured information available in the free text of incident reports to identify the cause of the incidents and their corresponding mitigation actions. Analyzing the structured data at the summary level would have resulted in missing the important information available in the free text.
+
+## 3 Ways Watson Can Help Your Business
+- Watson uses a technique called Transfer Learning that enables it to learn more from less data. Transfer Learning is a machine learning technique that enables the learning model to gather knowledge learned from one task and apply it to a different task, which means that the model does not need to be trained from scratch. 
+
+## Practice: Watson AI Overview
+- Watson is IBM’s suite of enterprise-ready AI services, applications, and tooling.
+- Deep Learning, a sophisticated machine learning technique, enables Watson's natural language understanding capabilities, allowing it to learn by deconstructing sentences to understand the meaning, intent, and context of use.
+- The top layer is where the customer specific learning takes place, personalizing Watson to the company's unique business needs.  
+- Watson Assistant ensures that customer-specific data is used to train Watson only for that customer, not others.
+- Businesses today are looking to balance customer interactions between human agents and chatbots. Chatbots are being used to filter the vast majority of simple and repetitive questions that customers have, leaving human agents free to engage in the complex customer interactions that require creativity or exceptions to the rules. 
+- Watson Regulatory Compliance turns the manual, time-consuming, and expensive process of complying with regulatory requirements into a streamlined, efficient process, driven by consistent methodology. It combines software, content, and expertise to provide a holistic, accurate, and timely view of the obligation lifecycle that enables organizations to achieve trustworthy, efficient, and sustainable compliance. 
+- Personality Insights predicts an individual’s personality characteristics, needs, and values to drive personalization. Tone Analyzer is a Watson API that uses linguistic analysis to assess the emotional, social, and linguistic themes in text. Natural Language Classifier analyzes text to label and organize data into custom categories.  
+- The focus for the use case should be to demonstrate the benefits that AI can bring to your organization. If the use case is faster to turn around but does not demonstrate enough value to the organization, it is not the right use case for starting your organization on its AI journey. 
+- Watson AI processes vast amounts of structured and unstructured data to extract information that is specific to the business problem being solved. 
+- Watson's Transfer Learning model ensures that it is able to learn with minimal amount of data, without having to worry about gathering huge amounts of training data. 
+
+## Graded: Watson AI Overview
+- When working in challenging conditions, especially operational sites, the speed at which questions get resolved can be critical. Watson's natural language processing capabilities and conversation APIs help gather expertise from thousands of employees to greatly reduce the time spent on tracking down expert knowledge.
+- Watson uses data from sensors to detect moisture levels in the air, helping irrigation systems give water where moisture content is low. Watson ingests data from weather, satellite, and sensor data on the IBM Cloud to identify conditions on the ground and in the atmosphere to adapt the irrigation levels. This not only helps get the best yields but also reduces the water use.
+- Every third bite of food we eat is from a pollinated plant. To aid this process, bees sometimes need to be transported long distances. Watson has partnered with The Weather Company to help identify the best routes taking traffic, temperature, and road conditions into account for the safe transportation of bees.
+- Watson's Transfer Learning ensures that the learning model can be fed prior knowledge, eliminating the need for massive amounts of training data.
+- The natural language capabilities of Watson powered chatbots enable them to understand the varied emotions in what the customer is saying. This capability enables chatbots to have conversations with customers that are natural and implicit, just the way humans interact with one another. An intelligent chatbot is also capable of deciding when the customer is better served by a human agent and transfer the call to the human agent.
+- Watson assists professionals process massive amounts of structured and unstructured data, giving them precise and up to the minute understanding of the rapidly evolving regulations. Watson’s ability to understand document structures and contract terminology also supports professionals in effective contract governance. 
+- IBM provides an end-to-end collaborative environment with a suite of capabilities to help AI professionals build, train, and deploy their custom models with their data alongside Watson. IBMs Cognitive APIs serve as messengers between data and the cognitive computing power of Watson, combining these in a coding platform on the cloud. These APIs are based on an input/output system where the API feeds the input data into Watson and the output is the delivery of the overall outcome based on that data.
+- Watson is based on a 3-layered transfer learning model which stores customer-specific data and insights in the topmost layer. This model only allows data to flow from bottom to top, making it possible for customers to retain complete ownership of the top layer.
+- The first step in the organization's AI journey is **Prove**, identifying the use case which will best demonstrate the benefits of AI to the organization. The second step in the organization's AI journey is **Adopt**, the value of bringing AI into the organization. The third step in the organization's AI journey is **Scale**, which is about scaling AI to the enterprise. 
+- Watson AI processes vast amounts of structured and unstructured data to extract information that is specific to the business problem being solved. It enables systems to learn with minimal amount of data, without having to worry about gathering huge amounts of training data. Watson also helps businesses protect their data. Businesses today are benefiting from the advantages that AI offers without developing AI models from scratch.
+- Using chatbots in customer service is helping businesses resolve customer queries faster with lower service costs. It is also helping businesses create greater job satisfaction for contact agents by freeing them from the routine and repetitive work to create greater value. 

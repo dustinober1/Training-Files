@@ -1,0 +1,100 @@
+[MUSIC] Welcome to exploring AI and ethics. In this video, you will learn about
+what AI ethics is, and why it matters. You will find out, what makes AI
+ethics a socio-technical challenge, what it means to build and
+use AI ethically, and how organizations can
+put AI ethics into action. AI, Artificial Intelligence, is
+a very pervasive in everybody's life. Even if often we don't realize it,
+we use it when we use a credit card to buy something online,
+when we search something on a web, when we post or like or
+follow somebody on a social platform. And even when we drive with
+the navigation support, and the driver assistance capabilities
+of the car based on AI. This pervasiveness generates very fast
+a significant transformations in our life, and also in the structure and
+equilibrium of our society. This is why AI besides being
+a technical and scientific discipline, has also a very significant social impact. This raises a lot of ethical questions
+about how AI should be designed, developed, deployed,
+used, and also regulated. The social technical dimensions of
+AI requires efforts to identify all stakeholders,
+that go well beyond technical experts, and include also sociologists,
+philosophers, economists, policymakers. And all the communities that are impacted
+by the deployment of this technology. Inclusiveness is necessary
+in defining the ecosystem, in all the phases of the AI
+development and deployment, and also in the impact of AI
+in the deployment scenario. Without it,
+we risk of creating AI only for some, and leave many others behind
+in a disadvantaged position. Everybody needs to be involved in
+defining the vision of the future that we want to build using AI and other
+technology as a means and not as an end. To achieve this, appropriate guidelines
+are necessary to drive the creation and use of AI in the right direction. Technical tools are necessary and useful,
+but they should be complemented by principles guardrails, well-defined
+processes, and effective governance. We should not think that all
+these slows down innovation. Think about traffic rules,
+it may seem that traffic lights, precedents, and stop signals, and
+speed limits are slowing us down. However, without them,
+we will not drive faster, but actually we would drive much slower,
+because we would be always in a complete state of uncertainty about
+other vehicles and pedestrians. AI ethics identifies and addresses the socio-technical
+issues raised by this technology, and makes sure that the right
+kind of innovation is supported, and facilitated, so that the path
+to the future we want is faster. As our CEO at IBM States, "Trust
+is our license to operate." We've earned this trust through
+our policies, programs, partnerships and advocacy of
+the responsible use of technology. For over 100 years,
+IBM has been at the forefront of innovation that brings benefits
+to our clients and society. This approach most definitely
+applies to the development, use, and deployment of AI. Therefore, ethics should be embedded
+into the lifecycle of the design and development process. Ethical decision making is not just
+a technical problem solving approach. Rather an ethical,
+sociological, technical and human centered approach,
+should be embarked upon, based on principles, value standards,
+laws and benefits to society. So having this foundation is important,
+even necessary, but where to start? A good place to start is with
+a set of guiding principles, at IBM we call our principles,
+the principles of trust and transparency. of which there are three. The purpose of AI is to augment
+not replace human intelligence. Data and
+insights belong to their creator and new technology including AI systems
+must be transparent and explainable. This last principle is built upon our
+pillars, of which there are five. We just mentioned transparency
+which reinforces trust, by sharing the what, and the how,
+the AI is being used for. It must be explainable and also fair. So when it's properly calibrated,
+it can assist in making better choices. Should be robust,
+which means it should be secure, and as well as privacy preserving,
+safeguarding privacy and rights. We know having principles and
+pillars are not enough. We have an extensive set of tools and
+talented practitioners that can help diagnose, monitor, promote all of our
+pillars and continuous monitoring, to mitigate against drift and
+unintended consequences. The first step to putting AI ethics
+into action, just like with anything else, is about building
+understanding and awareness. This is about equipping your teams to
+think about AI ethics, what it means to put it into action, whatever
+solution you're building and deploying. Let's take an example,
+if you're building a learning solution and deploying that within a company, your HR team leader who is doing
+that should be thinking about, is this solution designed
+with users in mind? Have you co-created
+the solution with users? How does it enable equal
+access to opportunity to all the employees across diverse groups. A keen understanding of AI ethics, and reflecting on these issues continuously, is critical as a foundation to
+putting AI ethics into action. The second step in putting
+AI ethics into action, once you build that understanding and
+awareness and everybody is reflecting on this topic, is
+to put in place in a governance structure. And the critical point here is, it's a governance structure
+to scale AI ethics in action. It's not about doing it in one
+isolated instance in a market, or in a business unit, it's about a
+governance structure that works at scale. We talked about understanding and
+awareness as a foundation, second governance, which is the responsibility
+of leaders to put in place structures. Once you've got these two elements,
+the third step is operationaIizing. How do you make sure a developer,
+or a data scientist, or a vendor, who's in Malaysia or Poland knows
+how to put AI ethics into action? What does it mean for them? Right? It's one thing to put structures
+in place at the global level, but how do you make sure it's operationalized
+at scale in the markets and every user, every data scientist, every
+developer knows what they need to do? This is all about having clarity of
+the pillars of trustworthy AI for IBM, it is transparency. Let's go back to our learning example,
+are you designing it with users? Think about, what we think of as best in
+class, transparent recommendation systems, your favorite movie streaming service,
+or your cab hailing service? It's transparent, is it explainable? Is it telling you what recommendations
+are, and why they're being made, but also telling you as a user, it's your
+choice to make the final decision? Fairness, is it giving equal access to
+opportunity to everyone by ensuring adoption, not just of the process, but
+also the outcome across different groups. Robustness, privacy,
+every data scientist and developer and every vendor needs to know, what we mean
+by these in a very operational manner. [MUSIC]

@@ -1,0 +1,54 @@
+[MUSIC] Can you tell us a little bit about the
+work you're doing with self-driving cars. >> I've been working on self-driving
+cars for the last few years. It's a domain that's exploded,
+obviously, in interest since early competitions back
+in the 2005 domain. And what we've been working on
+really is putting together our own self-driving vehicle that was
+able to drive on public roads in the regional Waterloo last August. With the self-driving cars area, one of our key research domains
+is in 3D object detection. So this remains a challenging task for
+algorithms to perform automatically. Trying to identify every vehicle,
+every pedestrian, every sign that's in
+a driving environment. So that the vehicle can make the correct
+decisions about how it should move and interact with those vehicles. And so we work extensively on
+how we take in laser data and vision data and radar data. And then fuse that into a complete
+view of the world around the vehicle. >> When we think of computer vision, we usually think immediately of
+self-driving cars, and why is that? Well, it's because it's hard to pay
+attention when driving on the road, right? You can't both be looking
+at your smartphone and also be looking at
+the road at the same time. Of course, it's sometimes hard to predict
+what people are going to be doing on the street, as well. When they're crossing the street with
+their bike or skateboard, or whatnot. So it's great when we have some sort
+of camera or sensor that can help us detect these things and prevent accidents
+before they could potentially occur. And that's one of the limitations of human
+vision, is attention, is visual attention. So I could be looking at you, Rav, but behind you could be this
+delicious slice of pizza. But I can only pay attention to one or just some limited number
+of things at a time. But I can't attend to everything in my
+visual field all at once at the same time like a camera could. Or like how computer vision
+could potentially do so. And so that's one of the great things that
+cameras and computer vision is good for. Helping us pay attention to the whole
+world around us without having us to look around and make sure that we're
+paying attention to everything. And that's just in self-driving cars, so I
+think we all kind of have a good sense of how AI and computer vision shapes
+the driving and transportation industry. >> Well, self-driving cars
+are certainly the future. And there's tremendous interest
+right now in self-driving vehicles. In part because of their
+potential to really change the way our society works and operates. I'm very excited about being able
+to get into a self-driving car and read or
+sit on the phone on the way to work. Instead of having to pilot
+through Toronto traffic. So I think they represent a really
+exciting step forward, but there's still lots to do. We still have lots of interesting challenges to solve
+in the self-driving space. Before we have really robust and safe cars that are able to drive themselves 100%
+of the time autonomously on our roads. >> We've just launched our own
+self-driving car specialization on Coursera. And we'd be really happy to see students
+in this specialization also come and learn more about self-driving. It's a wonderful starting point,
+it gives you a really nice perspective on the different components of
+the self-driving software stack and how it actually works. So everywhere from how it perceives the
+environment, how it makes decisions and plans its way through that environment. To how it controls the vehicle and
+makes sure it executes those plans safely. So you'll get a nice broad sweep of all
+of those things from that specialization. And from there you then
+want to become really good and really deep in one particular area,
+if you want to work in this domain. Because again, there's so
+many layers behind this. There's so much foundational knowledge
+you need to start contributing that you can't go wrong. If you find something interesting,
+just go after it. And I am sure there'll be companies
+that'll need you for this. [MUSIC]

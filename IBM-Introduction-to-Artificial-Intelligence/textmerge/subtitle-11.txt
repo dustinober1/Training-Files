@@ -1,0 +1,64 @@
+(Music) So can you talk about the different areas or categories of
+artificial intelligence? Now, there are lots of different
+fields that AI works in. But if I were to on a very very high level
+group some of the major areas where artificial
+intelligence is applied, I'd like to start off
+with natural language. Because natural language is, I'd say, the most complex data for machine learning
+to work with. If you see all sorts of data, whether that be
+a sequence to genome, whether that be audio, whether that be images. There's some sort of
+discernible pattern. There's some sort of yes, this is what a car
+sounds like or yes, this is what human voice
+sounds like. But natural language
+is fundamentally, a very human task. It's very human data source. We as humans invented it
+for humans to understand. If I were to, for example, give you a book title, there's actually a very very famous book, and the title of
+the book is there are two mistakes in
+the the title of this book. Now, there's actually
+only one mistake, the two the's. The human brain
+doesn't realize that. What's the second mistake? That there was only one mistake. So this is a sort of
+natural language complexity that's involved here. Humans we don't view
+natural language literally. We view it conceptually. If I were to write a
+three instead of an E, you will understand
+it because we don't mean the three in
+a literal sense. We mean that in a symbolic sense
+to represent the concept of E and you can contextualize that three
+to figure out that, "Yeah. It means in E" and
+not an actual three. These are things that
+computers aren't capable of. So natural languages that number one field that I'm most interested in when it
+comes to machine learning. Second, I'd say the most
+popular would be visual. Visual data understanding,
+computer vision. Because it enables us
+to do so many things. As humans, our primary
+sense is vision. In fact, a vast majority of your brain's processing power
+at any given moment, goes to understanding what
+it is that you're seeing. Whether it be a person's face, or whether it be
+a computer or some texts, or anything of that sort. Third, I would say
+audio-based data. So text-to-speech, speech-to-text these
+are very very complex. The reason it's
+complex is because it combines a lot of
+challenges into one. First of all, you've got
+to support many languages. You can't just support
+English and call it a day. You've got to support
+other languages. You've got to support
+other demographics. Another challenge is that
+even within languages, there are absolutely
+infinite number of ways that any human
+could represent a language. Everyone's going to have
+a different accent. Everyone's going to have a different way of
+pronouncing certain words. There's no standardized way
+that every human will pronounce ice cube exactly like ice cube. That
+doesn't exist. If you take a look at
+another challenge, it's that audio data is fundamentally very very
+difficult to work with. Because the thing is, audio data exists in the natural world.
+What is audio? It's vibrations of air molecules, and vibrations of
+air molecules are fast. Audio is recorded at
+overpay say 44 kilohertz. That's a lot of data, 44,000 data points
+every single second. There are usually only
+44,000 data points in an individual
+low-resolution image. So of course, there are lots of challenges to work around
+when it comes to audio. But companies like IBM, Google, Microsoft have
+actually worked around these challenges
+and they're working towards creating
+different services to make it easier for developers. So again, on
+a very very high level, there's natural
+language understanding, there's computer vision, there's audio data and of course, there's the traditional set of tabular data understanding. Which is essentially,
+structured data understanding. (Music)

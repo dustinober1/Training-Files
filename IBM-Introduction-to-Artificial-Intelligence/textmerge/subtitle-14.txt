@@ -1,0 +1,121 @@
+Welcome to exploring today's AI concerns. In this video, you will learn about
+some of today's hot topics in AI. First, you will hear about why
+trustworthy AI is the hot topic in AI. Then, you will hear about how AI is
+used in facial recognition technologies, in hiring in marketing on social media and
+in healthcare. People frequently ask me what
+our current hot topics in AI and I will tell you that whatever I answer
+today is likely to be different next week or even by tomorrow. The world of AI is extremely dynamic,
+which is a good thing. It's an emerging technology with
+an amazing amount of possibilities and the potential to solve so
+many problems, so much faster than what we
+thought was before possible. Now, as we've seen in some cases
+it can have harmful consequences. And so, I would say that the hot topic
+in AI is how do we do this responsibly? And IBM has come up with five
+pillars to address this issue, kind of summarizing
+the idea of responsible AI. That is explain ability, transparency,
+robustness, privacy and fairness. And we can go into those
+topics in more depth, but I want to emphasize two things here and one is that this is not a one and
+done sport. If you're going to use AI, if we're
+going to put it into use in society, this is not something you just address
+at the beginning or at the end. This is something you have to address
+throughout the entire lifecycle of AI. These are questions you have to ask
+whether you're at the drawing board, whether you're designing the AI,
+you're training the AI or you have put it into use or you are the
+end user who's interacting with the AI. And so, those five pillars or things you want to constantly think about
+throughout the entire lifecycle of AI. And then second and I think even more
+importantly is this is a team sport, we all need to be aware of
+both the potential good and the potential harm that comes from AI. And encourage everybody to ask questions. Make room for people to be curious
+about how AI works and what it's doing. And with that I think we can really
+use it to address good problems and have some great results and
+mitigate any of the potential harm. So stay curious. In designing solutions around
+Artificial Intelligence, call it AI, facial recognition has
+become a permanent use case. There are really three typical
+examples of categories of models and algorithms that are being designed.
+Facial detection that is simply detecting whether it is
+a human face versus a or a dog or cat. This type of facial recognition happens
+without uniquely identifying who that face might belong to. In facial authentication,
+you might use this type of facial recognition to open up your iPhone or
+your android device. In this case, we provide a
+one-on-one authentication by comparing the features of a face image. What they previously stored, single up
+image, meaning that you are really only comparing the images with the distinct
+image of the owner of the iPhone or android device. Facial matching, in this case, we compare the image with
+a database of other images or photos. Just as different from the previous
+in that, the model is trying to determine a facial match of
+an individual against the database for images below it or
+photos belonging to other humans. There are many different
+examples of facial recognition. Many of them you have no doubt
+experienced in your day to day activity. Some have proven to be helpful while
+others have shown to be not so helpful and then there are others that have proven
+to be direct criminal in nature. Where certain demographics of people have
+been harmed because of the use of these facial recognition systems. We've seen facial recognitions and
+solutions in AI systems provide significant value in scenarios
+like navigating through an airport or going through security or security align. Or even using previous previous
+examples like the one we talked about earlier where facial
+recognition to unlock your iPhone or possibly to unlock your home or
+down lock the door in your automobile. These are all helpful uses of
+facial recognition technologies but there are also some clear examples and
+use cases that must be off-limits. These might include identifying a person
+and the crowd without the sole permission of that person or doing mass surveillance
+on a single or group of people. These types of uses of technology
+raises important privacy, civil rights, and human rights concerns. When used the wrong way by the wrong
+people in facial recognition technologies no doubt can be
+used to suppress, dissent, or infringe upon the rights of minorities or to simply just erase your basic
+expectations of having privacy. AI is being increasingly introduced
+into each stage of workforce progression, hiring,
+onboarding, career progression, including promotions and
+awards handling, attrition etc. Stock board hiring: Consider an organization that receives
+thousands of job applications. People applying for
+all kinds of jobs, front office, back office, seasonal, permanent. Instead of having large
+teams of people sit and sift through all these applications,
+AI helps you rank and prioritize applicants against
+targeted job openings, presenting a list of the top
+candidates to the hiring managers. AI solutions can process
+text in resumes and combine that with other structured
+data to help in decision making. Now, we need to be careful
+to have guardrails in place. We need to ensure the use of AI
+in hiring is not biased across sensitive attributes like age,
+general ethnicity and the like. Even when those attributes are not
+directly used by the AI but maybe creeping in, coming in from
+proxy attributes like zip code or type of job previously held. One of the hot topics in AI
+today is its application and marketing on social media. It has completely transformed
+how brands interact with their audiences on
+social media platforms like TikTok, LinkedIn,
+Twitter, Instagram, Facebook. AI today can create ads for you,
+it can create social media posts for you. It can help you target
+those ads appropriately. It can use sentiment analysis to
+identify new audiences for you. All of this drives incredible results for
+a marketeer. It improves the effectiveness of
+the marketing campaigns while dramatically reducing the cost of
+running those campaigns. Now, the same techniques and
+capabilities that AI produces for doing marketing on social media platforms
+also raises some ethical questions. The marketing is successful
+because of all of the data and social media platforms
+collect from their users. Ostensibly, this data is
+collected to deliver more personalized experiences for end users. It's not always explicit what
+data is being collected and if you are providing your consent for
+them to use as data. Now, the same techniques that are so
+effective for marketing campaigns for
+brands can also be applied for generating misinformation,
+conspiracy theories. Whether it's political or
+scientific misinformation and this has horrendous implications for
+our communities at large. This is why it is absolutely
+critical that all enterprises adhere to some clear principles
+around transparency, explain ability, trust,
+privacy in terms of how they use AI or build AI into their solutions
+into their platforms. The use of AI is increasing
+across all healthcare segments, healthcare providers,
+pairs, life sciences etc. Pair organizations are using AI and machine learning solutions
+that tap into claims data, often combining it with other data sets
+like social determinants of health. A top use case is disease prediction for
+coordinating care. For example, predicting who in
+the member population is likely to have an adverse condition, maybe like
+an ER visit in the next three months and then providing the right forms
+of intervention and prevention. Equitable care becomes very
+important in this context. We need to make sure the AI is not biased
+across sensitive attributes like age, gender, ethnicity, etc. Across all of these of course,
+conversational AI where virtual agents as well as systems that help humans
+better service the member population. That has become table stakes. Across all of these use cases of AI in
+health care, we see a few common things. Being able to unlock insights from the
+rich sets of data the organization owns, improving the member or
+patient experience, and having guardrails in place to
+ensure AI is trustworthy. [MUSIC]

@@ -1,0 +1,3 @@
+# Module 4
+- For example, the order of the Welcome and Anything else node matters. Some nodes can be independent peers and appear anywhere between Welcome and Anything else. In other cases, however, the order of these middle nodes can matter as well. For example, nodes with generic conditions (e.g., @relationship) placed above nodes with related, but more specific conditions (e.g., @relationship:wife) can overshadow and prevent the execution of the latter.
+- Since the user input could match both the @occasion entity condition and @occasion:Graduation entity value condition, Node A placed above node B will always be executed instead. Node B will not be executed unless we jump to it from Node A or somewhere else in the dialog.

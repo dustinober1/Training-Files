@@ -1,0 +1,1585 @@
+[MUSIC] Can you tell us a little bit about the
+work you're doing with self-driving cars. >> I've been working on self-driving
+cars for the last few years. It's a domain that's exploded,
+obviously, in interest since early competitions back
+in the 2005 domain. And what we've been working on
+really is putting together our own self-driving vehicle that was
+able to drive on public roads in the regional Waterloo last August. With the self-driving cars area, one of our key research domains
+is in 3D object detection. So this remains a challenging task for
+algorithms to perform automatically. Trying to identify every vehicle,
+every pedestrian, every sign that's in
+a driving environment. So that the vehicle can make the correct
+decisions about how it should move and interact with those vehicles. And so we work extensively on
+how we take in laser data and vision data and radar data. And then fuse that into a complete
+view of the world around the vehicle. >> When we think of computer vision, we usually think immediately of
+self-driving cars, and why is that? Well, it's because it's hard to pay
+attention when driving on the road, right? You can't both be looking
+at your smartphone and also be looking at
+the road at the same time. Of course, it's sometimes hard to predict
+what people are going to be doing on the street, as well. When they're crossing the street with
+their bike or skateboard, or whatnot. So it's great when we have some sort
+of camera or sensor that can help us detect these things and prevent accidents
+before they could potentially occur. And that's one of the limitations of human
+vision, is attention, is visual attention. So I could be looking at you, Rav, but behind you could be this
+delicious slice of pizza. But I can only pay attention to one or just some limited number
+of things at a time. But I can't attend to everything in my
+visual field all at once at the same time like a camera could. Or like how computer vision
+could potentially do so. And so that's one of the great things that
+cameras and computer vision is good for. Helping us pay attention to the whole
+world around us without having us to look around and make sure that we're
+paying attention to everything. And that's just in self-driving cars, so I
+think we all kind of have a good sense of how AI and computer vision shapes
+the driving and transportation industry. >> Well, self-driving cars
+are certainly the future. And there's tremendous interest
+right now in self-driving vehicles. In part because of their
+potential to really change the way our society works and operates. I'm very excited about being able
+to get into a self-driving car and read or
+sit on the phone on the way to work. Instead of having to pilot
+through Toronto traffic. So I think they represent a really
+exciting step forward, but there's still lots to do. We still have lots of interesting challenges to solve
+in the self-driving space. Before we have really robust and safe cars that are able to drive themselves 100%
+of the time autonomously on our roads. >> We've just launched our own
+self-driving car specialization on Coursera. And we'd be really happy to see students
+in this specialization also come and learn more about self-driving. It's a wonderful starting point,
+it gives you a really nice perspective on the different components of
+the self-driving software stack and how it actually works. So everywhere from how it perceives the
+environment, how it makes decisions and plans its way through that environment. To how it controls the vehicle and
+makes sure it executes those plans safely. So you'll get a nice broad sweep of all
+of those things from that specialization. And from there you then
+want to become really good and really deep in one particular area,
+if you want to work in this domain. Because again, there's so
+many layers behind this. There's so much foundational knowledge
+you need to start contributing that you can't go wrong. If you find something interesting,
+just go after it. And I am sure there'll be companies
+that'll need you for this. [MUSIC](Music) Some of the most common application areas
+of AI include natural language processing, speech, and computer vision.
+Now, let's look at each of these in turn. Humans have the most advanced method of
+communication which is known as natural language. While humans can use computers to send
+voice and text messages to each other, computers do not innately
+know how to process natural language. Natural language processing is a subset of
+artificial intelligence that enables computers to understand the meaning of human
+language. Natural language processing uses machine learning
+and deep learning algorithms to
+discern a word's semantic meaning. It does this by deconstructing sentences grammatically,
+relationally, and structurally and understanding the context of use.
+For instance, based on the context of a conversation, NLP can determine if the word
+"Cloud" is a reference to cloud computing or the mass of
+condensed water vapor floating in the sky. NLP systems might also be able
+to understand intent and emotion, such as whether you're asking a question out
+of frustration, confusion, or irritation.
+Understanding the real intent of the user's language,
+NLP systems draw inferences through a broad array of linguistic models and algorithms.
+Natural language processing is broken down into
+many subcategories related to audio and visual tasks.
+For computers to communicate in natural language, they need to be able to convert speech into
+text, so communication is more natural and easy
+to process. They also need to be able to convert text-to-speech,
+so users can interact with computers without the requirement to stare at a screen.
+The older iterations of speech-to-text technology require programmers to go
+through tedious process of discovering and codifying
+the rules of classifying and converting voice samples into text.
+With neural networks, instead of coding the rules,
+you provide voice samples and their corresponding text.
+The neural network finds the common patterns among the pronunciation
+of words and then learns to map
+new voice recordings to their corresponding texts.
+These advances in speech-to-text technology are the reason we have real time transcription.
+Google uses AI-powered speech-to-text in there Call Screen feature to
+handle scam calls and show you the text of the person speaking in real time.
+YouTube uses this to provide automatic closed captioning.
+The flip side of speech-to-text is text-to-speech also known as speech synthesis.
+In the past, the creation of a voice model required hundreds of hours of
+coding. Now, with the help of neural networks,
+synthesizing human voice has become possible. First, a neural network ingests numerous samples
+of a person's voice until it can tell whether
+a new voice sample belongs to the same person. Then, a second neural network
+generates audio data and runs it through the first network to see if it
+validates it as belonging to the subject. If it does not, the generator corrects
+its sample and reruns it through the classifier. The two networks repeat the process
+until they generate samples that sound natural. Companies use AI-powered voice synthesis to
+enhance customer experience and give their
+brands their unique voice. In the medical field,
+this technology is helping ALS patients regain their true voice instead of using a computerized
+voice. The field of computer vision focuses on
+replicating parts of the complexity of the human visual system,
+and enabling computers to identify and process objects in images and videos,
+in the same way humans do. Computer vision is one of the technologies
+that enables the digital world to interact with the physical
+world. The field of computer vision has
+taken great leaps in recent years and surpasses humans in tasks related
+to detecting and labeling objects, thanks to advances in deep learning and neural
+networks. This technology enables self-driving cars
+to make sense of their surroundings. It plays a vital role in
+facial recognition applications allowing computers to match images of
+people's faces to their identities. It also plays a crucial role
+in augmented and mixed reality. The technology that allows
+computing devices such as smartphones, tablets, and smart glasses to overlay and embed
+virtual objects on real-world imagery. Online photo libraries like Google Photos,
+use computer vision to detect objects and classify images by the type of content they
+contain. (Music)(Music) An artificial neural network is a collection of smaller
+units called neurons, which are computing
+units modeled on the way the human brain
+processes information. Artificial neural networks borrow some ideas from the biological neural network of the brain, in order to approximate some
+of its processing results. These units or neurons
+take incoming data like the biological neural networks and learn to make
+decisions over time. Neural networks learn through a process called backpropagation. Backpropagation uses a set
+of training data that match known inputs
+to desired outputs. First, the inputs are plugged into the network and
+outputs are determined. Then, an error function
+determines how far the given output is from
+the desired output. Finally, adjustments are made
+in order to reduce errors. A collection of neurons
+is called a layer, and a layer takes in an input
+and provides an output. Any neural network will have one input layer and
+one output layer. It will also have
+one or more hidden layers which simulate the types of activity that goes on in the human brain. Hidden layers take in
+a set of weighted inputs and produce an output through
+an activation function. A neural network having more than one hidden layer is referred to as
+a deep neural network. Perceptrons are the simplest and oldest types of
+neural networks. They are single-layered
+neural networks consisting of input nodes connected
+directly to an output node. Input layers forward the input
+values to the next layer, by means of multiplying by a weight and summing the results. Hidden layers receive
+input from other nodes and forward their output
+to other nodes. Hidden and output nodes have
+a property called bias, which is a special type
+of weight that applies to a node after the other inputs
+are considered. Finally, an activation function determines how a node
+responds to its inputs. The function is run against the sum of the inputs and bias, and then the result is
+forwarded as an output. Activation functions can
+take different forms, and choosing them is
+a critical component to the success of
+a neural network. Convolutional neural
+networks or CNNs are multilayer neural
+networks that take inspiration from
+the animal visual cortex. CNNs are useful in applications
+such as image processing, video recognition, and
+natural language processing. A convolution is
+a mathematical operation, where a function is applied
+to another function and the result is a mixture
+of the two functions. Convolutions are
+good at detecting simple structures in an image, and putting those simple features together to construct
+more complex features. In a convolutional network, this process occurs over
+a series of layers, each of which conducts a convolution on the output
+of the previous layer. CNNs are adept at building complex features from
+less complex ones. Recurrent neural
+networks or RNNs, are recurrent
+because they perform the same task for
+every element of a sequence, with prior outputs feeding
+subsequent stage inputs. In a general neural network, an input is processed through a number of layers
+and an output is produced with an assumption that the two successive inputs are
+independent of each other, but that may not hold true
+in certain scenarios. For example, when
+we need to consider the context in which
+a word has been spoken, in such scenarios, dependence on previous observations has to be considered to
+produce the output. RNNs can make use of
+information in long sequences, each layer of
+the network representing the observation at
+a certain time. (Music)(Music) So can you talk about the different areas or categories of
+artificial intelligence? Now, there are lots of different
+fields that AI works in. But if I were to on a very very high level
+group some of the major areas where artificial
+intelligence is applied, I'd like to start off
+with natural language. Because natural language is, I'd say, the most complex data for machine learning
+to work with. If you see all sorts of data, whether that be
+a sequence to genome, whether that be audio, whether that be images. There's some sort of
+discernible pattern. There's some sort of yes, this is what a car
+sounds like or yes, this is what human voice
+sounds like. But natural language
+is fundamentally, a very human task. It's very human data source. We as humans invented it
+for humans to understand. If I were to, for example, give you a book title, there's actually a very very famous book, and the title of
+the book is there are two mistakes in
+the the title of this book. Now, there's actually
+only one mistake, the two the's. The human brain
+doesn't realize that. What's the second mistake? That there was only one mistake. So this is a sort of
+natural language complexity that's involved here. Humans we don't view
+natural language literally. We view it conceptually. If I were to write a
+three instead of an E, you will understand
+it because we don't mean the three in
+a literal sense. We mean that in a symbolic sense
+to represent the concept of E and you can contextualize that three
+to figure out that, "Yeah. It means in E" and
+not an actual three. These are things that
+computers aren't capable of. So natural languages that number one field that I'm most interested in when it
+comes to machine learning. Second, I'd say the most
+popular would be visual. Visual data understanding,
+computer vision. Because it enables us
+to do so many things. As humans, our primary
+sense is vision. In fact, a vast majority of your brain's processing power
+at any given moment, goes to understanding what
+it is that you're seeing. Whether it be a person's face, or whether it be
+a computer or some texts, or anything of that sort. Third, I would say
+audio-based data. So text-to-speech, speech-to-text these
+are very very complex. The reason it's
+complex is because it combines a lot of
+challenges into one. First of all, you've got
+to support many languages. You can't just support
+English and call it a day. You've got to support
+other languages. You've got to support
+other demographics. Another challenge is that
+even within languages, there are absolutely
+infinite number of ways that any human
+could represent a language. Everyone's going to have
+a different accent. Everyone's going to have a different way of
+pronouncing certain words. There's no standardized way
+that every human will pronounce ice cube exactly like ice cube. That
+doesn't exist. If you take a look at
+another challenge, it's that audio data is fundamentally very very
+difficult to work with. Because the thing is, audio data exists in the natural world.
+What is audio? It's vibrations of air molecules, and vibrations of
+air molecules are fast. Audio is recorded at
+overpay say 44 kilohertz. That's a lot of data, 44,000 data points
+every single second. There are usually only
+44,000 data points in an individual
+low-resolution image. So of course, there are lots of challenges to work around
+when it comes to audio. But companies like IBM, Google, Microsoft have
+actually worked around these challenges
+and they're working towards creating
+different services to make it easier for developers. So again, on
+a very very high level, there's natural
+language understanding, there's computer vision, there's audio data and of course, there's the traditional set of tabular data understanding. Which is essentially,
+structured data understanding. (Music)[MUSIC] Can you tell us a little bit about the
+work you're doing with self-driving cars. >> I've been working on self-driving
+cars for the last few years. It's a domain that's exploded,
+obviously, in interest since early competitions back
+in the 2005 domain. And what we've been working on
+really is putting together our own self-driving vehicle that was
+able to drive on public roads in the regional Waterloo last August. With the self-driving cars area, one of our key research domains
+is in 3D object detection. So this remains a challenging task for
+algorithms to perform automatically. Trying to identify every vehicle,
+every pedestrian, every sign that's in
+a driving environment. So that the vehicle can make the correct
+decisions about how it should move and interact with those vehicles. And so we work extensively on
+how we take in laser data and vision data and radar data. And then fuse that into a complete
+view of the world around the vehicle. >> When we think of computer vision, we usually think immediately of
+self-driving cars, and why is that? Well, it's because it's hard to pay
+attention when driving on the road, right? You can't both be looking
+at your smartphone and also be looking at
+the road at the same time. Of course, it's sometimes hard to predict
+what people are going to be doing on the street, as well. When they're crossing the street with
+their bike or skateboard, or whatnot. So it's great when we have some sort
+of camera or sensor that can help us detect these things and prevent accidents
+before they could potentially occur. And that's one of the limitations of human
+vision, is attention, is visual attention. So I could be looking at you, Rav, but behind you could be this
+delicious slice of pizza. But I can only pay attention to one or just some limited number
+of things at a time. But I can't attend to everything in my
+visual field all at once at the same time like a camera could. Or like how computer vision
+could potentially do so. And so that's one of the great things that
+cameras and computer vision is good for. Helping us pay attention to the whole
+world around us without having us to look around and make sure that we're
+paying attention to everything. And that's just in self-driving cars, so I
+think we all kind of have a good sense of how AI and computer vision shapes
+the driving and transportation industry. >> Well, self-driving cars
+are certainly the future. And there's tremendous interest
+right now in self-driving vehicles. In part because of their
+potential to really change the way our society works and operates. I'm very excited about being able
+to get into a self-driving car and read or
+sit on the phone on the way to work. Instead of having to pilot
+through Toronto traffic. So I think they represent a really
+exciting step forward, but there's still lots to do. We still have lots of interesting challenges to solve
+in the self-driving space. Before we have really robust and safe cars that are able to drive themselves 100%
+of the time autonomously on our roads. >> We've just launched our own
+self-driving car specialization on Coursera. And we'd be really happy to see students
+in this specialization also come and learn more about self-driving. It's a wonderful starting point,
+it gives you a really nice perspective on the different components of
+the self-driving software stack and how it actually works. So everywhere from how it perceives the
+environment, how it makes decisions and plans its way through that environment. To how it controls the vehicle and
+makes sure it executes those plans safely. So you'll get a nice broad sweep of all
+of those things from that specialization. And from there you then
+want to become really good and really deep in one particular area,
+if you want to work in this domain. Because again, there's so
+many layers behind this. There's so much foundational knowledge
+you need to start contributing that you can't go wrong. If you find something interesting,
+just go after it. And I am sure there'll be companies
+that'll need you for this. [MUSIC](Music) Some of the most common application areas
+of AI include natural language processing, speech, and computer vision.
+Now, let's look at each of these in turn. Humans have the most advanced method of
+communication which is known as natural language. While humans can use computers to send
+voice and text messages to each other, computers do not innately
+know how to process natural language. Natural language processing is a subset of
+artificial intelligence that enables computers to understand the meaning of human
+language. Natural language processing uses machine learning
+and deep learning algorithms to
+discern a word's semantic meaning. It does this by deconstructing sentences grammatically,
+relationally, and structurally and understanding the context of use.
+For instance, based on the context of a conversation, NLP can determine if the word
+"Cloud" is a reference to cloud computing or the mass of
+condensed water vapor floating in the sky. NLP systems might also be able
+to understand intent and emotion, such as whether you're asking a question out
+of frustration, confusion, or irritation.
+Understanding the real intent of the user's language,
+NLP systems draw inferences through a broad array of linguistic models and algorithms.
+Natural language processing is broken down into
+many subcategories related to audio and visual tasks.
+For computers to communicate in natural language, they need to be able to convert speech into
+text, so communication is more natural and easy
+to process. They also need to be able to convert text-to-speech,
+so users can interact with computers without the requirement to stare at a screen.
+The older iterations of speech-to-text technology require programmers to go
+through tedious process of discovering and codifying
+the rules of classifying and converting voice samples into text.
+With neural networks, instead of coding the rules,
+you provide voice samples and their corresponding text.
+The neural network finds the common patterns among the pronunciation
+of words and then learns to map
+new voice recordings to their corresponding texts.
+These advances in speech-to-text technology are the reason we have real time transcription.
+Google uses AI-powered speech-to-text in there Call Screen feature to
+handle scam calls and show you the text of the person speaking in real time.
+YouTube uses this to provide automatic closed captioning.
+The flip side of speech-to-text is text-to-speech also known as speech synthesis.
+In the past, the creation of a voice model required hundreds of hours of
+coding. Now, with the help of neural networks,
+synthesizing human voice has become possible. First, a neural network ingests numerous samples
+of a person's voice until it can tell whether
+a new voice sample belongs to the same person. Then, a second neural network
+generates audio data and runs it through the first network to see if it
+validates it as belonging to the subject. If it does not, the generator corrects
+its sample and reruns it through the classifier. The two networks repeat the process
+until they generate samples that sound natural. Companies use AI-powered voice synthesis to
+enhance customer experience and give their
+brands their unique voice. In the medical field,
+this technology is helping ALS patients regain their true voice instead of using a computerized
+voice. The field of computer vision focuses on
+replicating parts of the complexity of the human visual system,
+and enabling computers to identify and process objects in images and videos,
+in the same way humans do. Computer vision is one of the technologies
+that enables the digital world to interact with the physical
+world. The field of computer vision has
+taken great leaps in recent years and surpasses humans in tasks related
+to detecting and labeling objects, thanks to advances in deep learning and neural
+networks. This technology enables self-driving cars
+to make sense of their surroundings. It plays a vital role in
+facial recognition applications allowing computers to match images of
+people's faces to their identities. It also plays a crucial role
+in augmented and mixed reality. The technology that allows
+computing devices such as smartphones, tablets, and smart glasses to overlay and embed
+virtual objects on real-world imagery. Online photo libraries like Google Photos,
+use computer vision to detect objects and classify images by the type of content they
+contain. (Music)(Music) An artificial neural network is a collection of smaller
+units called neurons, which are computing
+units modeled on the way the human brain
+processes information. Artificial neural networks borrow some ideas from the biological neural network of the brain, in order to approximate some
+of its processing results. These units or neurons
+take incoming data like the biological neural networks and learn to make
+decisions over time. Neural networks learn through a process called backpropagation. Backpropagation uses a set
+of training data that match known inputs
+to desired outputs. First, the inputs are plugged into the network and
+outputs are determined. Then, an error function
+determines how far the given output is from
+the desired output. Finally, adjustments are made
+in order to reduce errors. A collection of neurons
+is called a layer, and a layer takes in an input
+and provides an output. Any neural network will have one input layer and
+one output layer. It will also have
+one or more hidden layers which simulate the types of activity that goes on in the human brain. Hidden layers take in
+a set of weighted inputs and produce an output through
+an activation function. A neural network having more than one hidden layer is referred to as
+a deep neural network. Perceptrons are the simplest and oldest types of
+neural networks. They are single-layered
+neural networks consisting of input nodes connected
+directly to an output node. Input layers forward the input
+values to the next layer, by means of multiplying by a weight and summing the results. Hidden layers receive
+input from other nodes and forward their output
+to other nodes. Hidden and output nodes have
+a property called bias, which is a special type
+of weight that applies to a node after the other inputs
+are considered. Finally, an activation function determines how a node
+responds to its inputs. The function is run against the sum of the inputs and bias, and then the result is
+forwarded as an output. Activation functions can
+take different forms, and choosing them is
+a critical component to the success of
+a neural network. Convolutional neural
+networks or CNNs are multilayer neural
+networks that take inspiration from
+the animal visual cortex. CNNs are useful in applications
+such as image processing, video recognition, and
+natural language processing. A convolution is
+a mathematical operation, where a function is applied
+to another function and the result is a mixture
+of the two functions. Convolutions are
+good at detecting simple structures in an image, and putting those simple features together to construct
+more complex features. In a convolutional network, this process occurs over
+a series of layers, each of which conducts a convolution on the output
+of the previous layer. CNNs are adept at building complex features from
+less complex ones. Recurrent neural
+networks or RNNs, are recurrent
+because they perform the same task for
+every element of a sequence, with prior outputs feeding
+subsequent stage inputs. In a general neural network, an input is processed through a number of layers
+and an output is produced with an assumption that the two successive inputs are
+independent of each other, but that may not hold true
+in certain scenarios. For example, when
+we need to consider the context in which
+a word has been spoken, in such scenarios, dependence on previous observations has to be considered to
+produce the output. RNNs can make use of
+information in long sequences, each layer of
+the network representing the observation at
+a certain time. (Music)(Music) Machine Learning is a broad field and we
+can split it up into three different categories, Supervised Learning,
+Unsupervised Learning, and Reinforcement Learning. There are many different tasks we can solve
+with these. Supervised Learning refers to
+when we have class labels in the dataset and we use these
+to build the classification model. What this means is when we receive data,
+it has labels that say what the data represents. In a previous example,
+we had a table with labels such as age or sex.
+With Unsupervised Learning, we don't have class labels
+and we must discover class labels from unstructured data.
+This could involve things such as deep learning looking at pictures to train
+models. Things like this are typically done
+with something called clustering. Reinforcement Learning is a different subset,
+and what this does is it uses a reward function to
+penalize bad actions or reward good actions. Breaking down Supervised Learning,
+we can split it up into three categories, Regression, Classification and Neural Networks.
+Regression models are built by looking at the relationships between
+features x and the result y where y is a continuous variable.
+Essentially, Regression estimates continuous values.
+Neural Networks refer to structures that imitate the structure of the human brain.
+Classification on the other hand, focuses on discrete values it identifies.
+We can assign discrete class labels y based on many input features x.
+In a previous example, given a set of features x,
+like beats per minute, body mass index, age and sex,
+the algorithm classifies the output y as two categories, True or False,
+predicting whether the heart will fail or not.
+In other Classification models, we can classify results into more than two
+categories. For example, predicting whether
+a recipe is for an Indian, Chinese, Japanese, or Thai dish.
+Some forms of classification include decision trees,
+support vector machines, logistic regression, and random forests.
+With Classification, we can extract features from the data.
+The features in this example would be beats per minute or age.
+Features are distinctive properties of input patterns that
+help in determining the output categories or classes of output.
+Each column is a feature and each row is a data point.
+Classification is the process of predicting the class of given data points.
+Our classifier uses some training data to understand
+how given input variables relate to that class. What exactly do we mean by training?
+Training refers to using a learning algorithm to determine
+and develop the parameters of your model. While there are many algorithms
+to do this, in layman's terms, if you're training a model to
+predict whether the heart will fail or not, that is True or False values,
+you will be showing the algorithm some real-life data labeled True,
+then showing the algorithm again, some data labeled False,
+and you will be repeating this process with data having True or False values,
+that is whether the heart actually failed or not.
+The algorithm modifies internal values until it has learned to tell from
+data that indicates heart failure that is True or not, that is False.
+With Machine Learning, we typically take a dataset and split it into three sets,
+Training, Validation and Test sets. The Training subset is
+the data used to train the algorithm. The Validation subset is used to validate
+our results and fine-tune the algorithm's parameters.
+The Testing data is the data the model has never seen
+before and used to evaluate how good our model is.
+We can then indicate how good the model is using terms like,
+accuracy, precision and recall.[MUSIC] Welcome to exploring AI and ethics. In this video, you will learn about
+what AI ethics is, and why it matters. You will find out, what makes AI
+ethics a socio-technical challenge, what it means to build and
+use AI ethically, and how organizations can
+put AI ethics into action. AI, Artificial Intelligence, is
+a very pervasive in everybody's life. Even if often we don't realize it,
+we use it when we use a credit card to buy something online,
+when we search something on a web, when we post or like or
+follow somebody on a social platform. And even when we drive with
+the navigation support, and the driver assistance capabilities
+of the car based on AI. This pervasiveness generates very fast
+a significant transformations in our life, and also in the structure and
+equilibrium of our society. This is why AI besides being
+a technical and scientific discipline, has also a very significant social impact. This raises a lot of ethical questions
+about how AI should be designed, developed, deployed,
+used, and also regulated. The social technical dimensions of
+AI requires efforts to identify all stakeholders,
+that go well beyond technical experts, and include also sociologists,
+philosophers, economists, policymakers. And all the communities that are impacted
+by the deployment of this technology. Inclusiveness is necessary
+in defining the ecosystem, in all the phases of the AI
+development and deployment, and also in the impact of AI
+in the deployment scenario. Without it,
+we risk of creating AI only for some, and leave many others behind
+in a disadvantaged position. Everybody needs to be involved in
+defining the vision of the future that we want to build using AI and other
+technology as a means and not as an end. To achieve this, appropriate guidelines
+are necessary to drive the creation and use of AI in the right direction. Technical tools are necessary and useful,
+but they should be complemented by principles guardrails, well-defined
+processes, and effective governance. We should not think that all
+these slows down innovation. Think about traffic rules,
+it may seem that traffic lights, precedents, and stop signals, and
+speed limits are slowing us down. However, without them,
+we will not drive faster, but actually we would drive much slower,
+because we would be always in a complete state of uncertainty about
+other vehicles and pedestrians. AI ethics identifies and addresses the socio-technical
+issues raised by this technology, and makes sure that the right
+kind of innovation is supported, and facilitated, so that the path
+to the future we want is faster. As our CEO at IBM States, "Trust
+is our license to operate." We've earned this trust through
+our policies, programs, partnerships and advocacy of
+the responsible use of technology. For over 100 years,
+IBM has been at the forefront of innovation that brings benefits
+to our clients and society. This approach most definitely
+applies to the development, use, and deployment of AI. Therefore, ethics should be embedded
+into the lifecycle of the design and development process. Ethical decision making is not just
+a technical problem solving approach. Rather an ethical,
+sociological, technical and human centered approach,
+should be embarked upon, based on principles, value standards,
+laws and benefits to society. So having this foundation is important,
+even necessary, but where to start? A good place to start is with
+a set of guiding principles, at IBM we call our principles,
+the principles of trust and transparency. of which there are three. The purpose of AI is to augment
+not replace human intelligence. Data and
+insights belong to their creator and new technology including AI systems
+must be transparent and explainable. This last principle is built upon our
+pillars, of which there are five. We just mentioned transparency
+which reinforces trust, by sharing the what, and the how,
+the AI is being used for. It must be explainable and also fair. So when it's properly calibrated,
+it can assist in making better choices. Should be robust,
+which means it should be secure, and as well as privacy preserving,
+safeguarding privacy and rights. We know having principles and
+pillars are not enough. We have an extensive set of tools and
+talented practitioners that can help diagnose, monitor, promote all of our
+pillars and continuous monitoring, to mitigate against drift and
+unintended consequences. The first step to putting AI ethics
+into action, just like with anything else, is about building
+understanding and awareness. This is about equipping your teams to
+think about AI ethics, what it means to put it into action, whatever
+solution you're building and deploying. Let's take an example,
+if you're building a learning solution and deploying that within a company, your HR team leader who is doing
+that should be thinking about, is this solution designed
+with users in mind? Have you co-created
+the solution with users? How does it enable equal
+access to opportunity to all the employees across diverse groups. A keen understanding of AI ethics, and reflecting on these issues continuously, is critical as a foundation to
+putting AI ethics into action. The second step in putting
+AI ethics into action, once you build that understanding and
+awareness and everybody is reflecting on this topic, is
+to put in place in a governance structure. And the critical point here is, it's a governance structure
+to scale AI ethics in action. It's not about doing it in one
+isolated instance in a market, or in a business unit, it's about a
+governance structure that works at scale. We talked about understanding and
+awareness as a foundation, second governance, which is the responsibility
+of leaders to put in place structures. Once you've got these two elements,
+the third step is operationaIizing. How do you make sure a developer,
+or a data scientist, or a vendor, who's in Malaysia or Poland knows
+how to put AI ethics into action? What does it mean for them? Right? It's one thing to put structures
+in place at the global level, but how do you make sure it's operationalized
+at scale in the markets and every user, every data scientist, every
+developer knows what they need to do? This is all about having clarity of
+the pillars of trustworthy AI for IBM, it is transparency. Let's go back to our learning example,
+are you designing it with users? Think about, what we think of as best in
+class, transparent recommendation systems, your favorite movie streaming service,
+or your cab hailing service? It's transparent, is it explainable? Is it telling you what recommendations
+are, and why they're being made, but also telling you as a user, it's your
+choice to make the final decision? Fairness, is it giving equal access to
+opportunity to everyone by ensuring adoption, not just of the process, but
+also the outcome across different groups. Robustness, privacy,
+every data scientist and developer and every vendor needs to know, what we mean
+by these in a very operational manner. [MUSIC]Welcome to exploring today's AI concerns. In this video, you will learn about
+some of today's hot topics in AI. First, you will hear about why
+trustworthy AI is the hot topic in AI. Then, you will hear about how AI is
+used in facial recognition technologies, in hiring in marketing on social media and
+in healthcare. People frequently ask me what
+our current hot topics in AI and I will tell you that whatever I answer
+today is likely to be different next week or even by tomorrow. The world of AI is extremely dynamic,
+which is a good thing. It's an emerging technology with
+an amazing amount of possibilities and the potential to solve so
+many problems, so much faster than what we
+thought was before possible. Now, as we've seen in some cases
+it can have harmful consequences. And so, I would say that the hot topic
+in AI is how do we do this responsibly? And IBM has come up with five
+pillars to address this issue, kind of summarizing
+the idea of responsible AI. That is explain ability, transparency,
+robustness, privacy and fairness. And we can go into those
+topics in more depth, but I want to emphasize two things here and one is that this is not a one and
+done sport. If you're going to use AI, if we're
+going to put it into use in society, this is not something you just address
+at the beginning or at the end. This is something you have to address
+throughout the entire lifecycle of AI. These are questions you have to ask
+whether you're at the drawing board, whether you're designing the AI,
+you're training the AI or you have put it into use or you are the
+end user who's interacting with the AI. And so, those five pillars or things you want to constantly think about
+throughout the entire lifecycle of AI. And then second and I think even more
+importantly is this is a team sport, we all need to be aware of
+both the potential good and the potential harm that comes from AI. And encourage everybody to ask questions. Make room for people to be curious
+about how AI works and what it's doing. And with that I think we can really
+use it to address good problems and have some great results and
+mitigate any of the potential harm. So stay curious. In designing solutions around
+Artificial Intelligence, call it AI, facial recognition has
+become a permanent use case. There are really three typical
+examples of categories of models and algorithms that are being designed.
+Facial detection that is simply detecting whether it is
+a human face versus a or a dog or cat. This type of facial recognition happens
+without uniquely identifying who that face might belong to. In facial authentication,
+you might use this type of facial recognition to open up your iPhone or
+your android device. In this case, we provide a
+one-on-one authentication by comparing the features of a face image. What they previously stored, single up
+image, meaning that you are really only comparing the images with the distinct
+image of the owner of the iPhone or android device. Facial matching, in this case, we compare the image with
+a database of other images or photos. Just as different from the previous
+in that, the model is trying to determine a facial match of
+an individual against the database for images below it or
+photos belonging to other humans. There are many different
+examples of facial recognition. Many of them you have no doubt
+experienced in your day to day activity. Some have proven to be helpful while
+others have shown to be not so helpful and then there are others that have proven
+to be direct criminal in nature. Where certain demographics of people have
+been harmed because of the use of these facial recognition systems. We've seen facial recognitions and
+solutions in AI systems provide significant value in scenarios
+like navigating through an airport or going through security or security align. Or even using previous previous
+examples like the one we talked about earlier where facial
+recognition to unlock your iPhone or possibly to unlock your home or
+down lock the door in your automobile. These are all helpful uses of
+facial recognition technologies but there are also some clear examples and
+use cases that must be off-limits. These might include identifying a person
+and the crowd without the sole permission of that person or doing mass surveillance
+on a single or group of people. These types of uses of technology
+raises important privacy, civil rights, and human rights concerns. When used the wrong way by the wrong
+people in facial recognition technologies no doubt can be
+used to suppress, dissent, or infringe upon the rights of minorities or to simply just erase your basic
+expectations of having privacy. AI is being increasingly introduced
+into each stage of workforce progression, hiring,
+onboarding, career progression, including promotions and
+awards handling, attrition etc. Stock board hiring: Consider an organization that receives
+thousands of job applications. People applying for
+all kinds of jobs, front office, back office, seasonal, permanent. Instead of having large
+teams of people sit and sift through all these applications,
+AI helps you rank and prioritize applicants against
+targeted job openings, presenting a list of the top
+candidates to the hiring managers. AI solutions can process
+text in resumes and combine that with other structured
+data to help in decision making. Now, we need to be careful
+to have guardrails in place. We need to ensure the use of AI
+in hiring is not biased across sensitive attributes like age,
+general ethnicity and the like. Even when those attributes are not
+directly used by the AI but maybe creeping in, coming in from
+proxy attributes like zip code or type of job previously held. One of the hot topics in AI
+today is its application and marketing on social media. It has completely transformed
+how brands interact with their audiences on
+social media platforms like TikTok, LinkedIn,
+Twitter, Instagram, Facebook. AI today can create ads for you,
+it can create social media posts for you. It can help you target
+those ads appropriately. It can use sentiment analysis to
+identify new audiences for you. All of this drives incredible results for
+a marketeer. It improves the effectiveness of
+the marketing campaigns while dramatically reducing the cost of
+running those campaigns. Now, the same techniques and
+capabilities that AI produces for doing marketing on social media platforms
+also raises some ethical questions. The marketing is successful
+because of all of the data and social media platforms
+collect from their users. Ostensibly, this data is
+collected to deliver more personalized experiences for end users. It's not always explicit what
+data is being collected and if you are providing your consent for
+them to use as data. Now, the same techniques that are so
+effective for marketing campaigns for
+brands can also be applied for generating misinformation,
+conspiracy theories. Whether it's political or
+scientific misinformation and this has horrendous implications for
+our communities at large. This is why it is absolutely
+critical that all enterprises adhere to some clear principles
+around transparency, explain ability, trust,
+privacy in terms of how they use AI or build AI into their solutions
+into their platforms. The use of AI is increasing
+across all healthcare segments, healthcare providers,
+pairs, life sciences etc. Pair organizations are using AI and machine learning solutions
+that tap into claims data, often combining it with other data sets
+like social determinants of health. A top use case is disease prediction for
+coordinating care. For example, predicting who in
+the member population is likely to have an adverse condition, maybe like
+an ER visit in the next three months and then providing the right forms
+of intervention and prevention. Equitable care becomes very
+important in this context. We need to make sure the AI is not biased
+across sensitive attributes like age, gender, ethnicity, etc. Across all of these of course,
+conversational AI where virtual agents as well as systems that help humans
+better service the member population. That has become table stakes. Across all of these use cases of AI in
+health care, we see a few common things. Being able to unlock insights from the
+rich sets of data the organization owns, improving the member or
+patient experience, and having guardrails in place to
+ensure AI is trustworthy. [MUSIC][MUSIC] While Machine Learning is a subset
+of Artificial Intelligence, Deep Learning is a specialized
+subset of Machine Learning. Deep Learning layers algorithms
+to create a Neural Network, an artificial replication of the structure
+and functionality of the brain, enabling AI systems to continuously learn
+on the job and improve the quality and accuracy of results. This is what enables these systems to
+learn from unstructured data such as photos, videos, and audio files. Deep Learning, for example, enables natural language understanding
+capabilities of AI systems, and allows them to work out the context
+and intent of what is being conveyed. Deep learning algorithms do not
+directly map input to output. Instead, they rely on several
+layers of processing units. Each layer passes its output to
+the next layer, which processes it and passes it to the next. The many layers is why
+it’s called deep learning. When creating deep learning algorithms,
+developers and engineers configure the number of layers
+and the type of functions that connect the outputs of each layer
+to the inputs of the next. Then they train the model by providing
+it with lots of annotated examples. For instance, you give a deep learning
+algorithm thousands of images and labels that correspond to
+the content of each image. The algorithm will run the those examples
+through its layered neural network, and adjust the weights of the variables
+in each layer of the neural network to be able to detect the common patterns that
+define the images with similar labels. Deep Learning fixes one of
+the major problems present in older generations of learning algorithms. While the efficiency and performance of machine learning
+algorithms plateau as the datasets grow, deep learning algorithms continue to
+improve as they are fed more data. Deep Learning has proven to be
+very efficient at various tasks, including image captioning,
+voice recognition and transcription, facial recognition, medical imaging,
+and language translation. Deep Learning is also one of the main
+components of driverless cars. [MUSIC][MUSIC] Can you talk about some of
+the applications of AI? >> There's all kind of different
+applications, obviously, there's healthcare, there's finance. The one that's closest to my heart,
+of course, is robotics and automation. Where the AI technologies really help
+us to improve our abilities to perceive the environment around the robot and to make plans in unpredictable
+environments as they're changing. >> There's a great book out by an author,
+it was Kelvin Kelly, and he is an editor for the Wired magazine,
+he's written a great book about technologies that are going to
+be changing shaping our world, specifically 12 technologies. And he's got a fantastic definition in the
+book about specifically how AI is going to permeate our everyday life and it's
+all summarized in one excellent quote. So he says that the business cases for the next 10,000 startups
+are easy to predict, I have x and I will add AI to my x. The way I understand that
+is it's basically a notion that AI in one shape, way or
+form, in any shape or form, is going to permeate every
+aspect of human endeavor. Everything we do, everything we
+touch is going to be enhanced by AI. We have great benefits from taking
+any device, any machine, and make it just a little bit smarter. The benefit of that is just
+adding a bit of smarts to it, a bit of intelligence to it is
+exponential in its benefit. >> So we work a lot with some
+really fun applications of AI. We do a couple of different
+things in the lab that I run. We work on self-driving vehicles as one
+aspect, so autonomy for self-driving. Which requires a lot of AI for
+the vision systems, for the navigational intelligence, for the planning and
+control aspects of the car, we do that. And we also have a large research program
+in what are called collaborative robotics, or cobots. So robots that are designed to work in and
+around and with people. And that presents a lot of challenges,
+because we want the robots to act intelligently and to interface
+with humans in a way that is natural. And that requires understanding how people
+behave, which requires intelligence. In addition to those,
+there are a myriad of other applications, drug discovery, medical treatments for
+cancer and other diseases. So a bunch of extremely
+exciting applications. >> I mean I think the general use of AI so far has been taking large data sets,
+and making sense of them. And doing some sort of processing
+with that data in real time. That's what we've been doing, and that's what we've seen most effective,
+in terms of creating some sort of larger scale impact in healthcare
+beyond just having a siloed device. And we've been seeing
+that across the board, across the whole healthcare spectrum. >> We use AI all the time, and a lot of
+the times we're not even aware of it. We use AI every time we type in
+a search query on a search engine, every time we use our GPS. Or every time we use some kind
+of voice recognition system. >> I like to focus on
+a particular segment of AI, if that's okay, around computer vision. Because it's just particularly
+fascinating to me. Now, when we think of computer vision,
+they're looking at AI in ways to help augment, or to help automate or to help
+train computers to do something that's already very difficult
+to train humans to do. Like when it comes to the airport,
+trying to find weapons within luggage through the X-ray scanner,
+now that could be difficult to do. No matter how much you train someone
+that can be very difficult to identify. But with computer vision that can
+help to automate, help to augment, help to flag, certain X-ray images so
+that maybe even humans can just take a look at a filtered set of images,
+not all of the images right? So computer vision is very disruptive. And so there's many ways in which computer
+vision can really help to augment the capabilities of humans in
+lots of different industries. >> Now I mean applications of
+AI are really all around us. There's no limit to really what we're
+doing with artificial intelligence. When you do practically anything on any
+technology, you're most probably using some form of what we call machine
+learning or artificial intelligence. For example, when you check your email. Doing something as simple
+as checking your email. Spam filtering has been done for
+years with machine learning technology. More recently, Google came out with their features that
+enable you to do smart email compositions. So you can actually have text written for you on the fly as you're
+writing your email. Your subjects are automatically written
+as well, it'll recommend to you who you should be sending the email to,
+see if you missed someone. All of these things are powered
+by machine learning. But some of the main areas where I believe
+machine learning technology can make an impact are the fields of
+health care and education. [MUSIC]Welcome to Defining AI Ethics. Humans rely on culturally agreed-upon morals
+and standards of action — or ethics — to guide their decision-making, especially for
+decisions that impact others. As AI is increasingly used to automate and
+augment decision-making, it is critical that AI is built with ethics at the core so its
+outcomes align with human ethics and expectations. AI ethics is a multidisciplinary field that
+investigates how to maximize AI's beneficial impacts while reducing risks and adverse impacts. It explores issues like data responsibility
+and privacy, inclusion, moral agency, value alignment, accountability, and technology
+misuse …to understand how to build and use AI in
+ways that align with human ethics and expectations. There are five pillars for AI ethics: explainability, fairness, robustness, transparency, and privacy. These pillars are focus areas that help us
+take action to build and use AI ethically. Explainability AI is explainable when it can show how and
+why it arrived at a particular outcome or recommendation. You can think of explainability as an AI system
+showing its work. Fairness AI is fair when it treats individuals or groups
+equitably. AI can help humans make fairer choices by
+counterbalancing human biases, but beware — bias can be present in AI too, so steps
+must be taken to mitigate it. Robustness AI is robust when it can effectively handle
+exceptional conditions, like abnormal input or adversarial attacks. Robust AI is built to withstand intentional
+and unintentional interference. Transparency AI is transparent when appropriate information
+is shared with humans about how the AI system was designed and developed. Transparency means that humans have access
+to information like what data was used to train the AI system, how the system collects
+and stores data, and who has access to the data the system collects. Privacy Because AI ingests so much data, it must be
+designed to prioritize and safeguard humans' privacy and data rights. AI that is built to respect privacy collects
+and stores only the minimum amount of data it needs to function, and collected data should never be repurposed
+without users' consent, among other considerations. In summary, together, these five pillars — explainability, fairness, robustness, transparency, and privacy — help us to design, develop, deploy,
+and use AI more ethically and to understand how to build and use
+AI in ways that align with human ethics and expectations.Welcome to understanding
+bias in AI. In this video, you will learn about bias in
+the context of AI. You will find out how bias can emerge in AI, how bias
+can impact AI's outcomes, and how to begin mitigating
+potential bias in AI. So bias and artificial intelligence is
+all about unwanted behaviors. Where AI systems that are used in
+consequential decision making tasks, whether it's in lending,
+hiring, even in criminal justice, gives systematic disadvantages to
+certain groups and individuals. So an example would be an AI system
+that's helping make decisions on who should receive extra
+preventative healthcare and it gives more of that to white
+people than black people. Or another example is
+hiring algorithm where the AI system actually
+gives more qualified men a chance to interview
+than qualified women. There's actually many
+sources of this happening. So when we talk about AI or machine
+learning systems, they're trained on historical decisions that human
+decision makers have made in the past. So because of that there's actually
+the possibility that the human decision makers in the past were implicitly or
+explicitly biased themselves and so that's reflected in the training
+data through prejudice. Second is through
+the sampling of the data. So it's possible that certain
+groups are overrepresented or underrepresented in a particular data set. Another aspect that sometimes
+overlooked is in the data processing or data preparation phase in
+the data science project. So even the fact that I do some
+feature engineering can lead to additional biases that might
+not have been there before. So an example of that is coming
+back to our healthcare example. So if I look at healthcare
+costs separately as a feature. So inpatient, outpatient or emergency room, then there's much less bias that's
+introduced against African Americans. Whereas if combine all of those
+into a single feature is actually much more biased against
+African Americans. And then there's also the question of
+how am I even posing the problem itself? Maybe I'm predicting the wrong thing. So if I'm trying to predict
+criminality where future crimes then arrests is not
+a good way to look at that because the police arrest
+people more often where they're more active in
+certain neighborhoods and being arrested is not
+the same as being guilty. So, as we talked about, there's many
+sources of those biases and so we need to take actions that
+help undo those sources. So one important aspect of it is even
+recognizing that there are biases. So having a team of people who
+have diverse lived experiences is one way to recognize those harms and other
+sort of biases that might be in play. Another thing is to search for data sets that actually have
+your your biases themselves. So that's another way
+to counteract biases. And then finally,
+there's technical approaches. So if we have a machine learning
+model that we're training on data that is biased, we can actually
+introduce extra constraints or other sort of statistical measures
+in order to mitigate biases. So we've developed several
+such algorithms and many of them are available in
+the open source toolkit in AI fairness. Our goal is to ensure technology
+makes a positive impact on society. I am proud to be a member
+of the IBM AI Ethics Board to focus on conscious
+inclusion through Good Tech. Our AI Ethics board represents
+a cross section of diverse IBM-ers who address
+in research eliminating bias while establishing
+standards in this space. A few ways in which IBM-ers use AI and
+data skills is by leveraging our technology to
+develop assets to address bias. Also to address inclusive language in
+tech terminology. This is around our
+Language Matters initiative. And to ensure testing of our solutions
+to decrease the probability and minimize the potential for bias. In D & I, we use AI and data analytics and
+insights to inform decision support and address as well as minimize
+the potential for bias. In HR, this means enhancing decision support
+that can inform pay and retention, hiring and
+promotion decisions. Using AI and data insights plays an important role to
+assist in our compliance requirements and proactive actions that
+we take around the globe.Machine Learning, a subset of AI, uses computer algorithms to analyze data and make intelligent decisions based on what it has learned. Instead of following rules-based algorithms, machine learning builds models to classify and make predictions from data. Let's understand this by exploring a problem we may be able to tackle with Machine Learning. What if we want to determine whether a heart can fail, is this something we can solve with Machine Learning? The answer is, Yes. Let's say we are given data such as beats per minute, body mass index, age, sex, and the result whether the heart has failed or not. With Machine Learning given this dataset, we are able to learn and create a model that given inputs, will predict results. So what is the difference between this and using statistical analysis to create an algorithm? An algorithm is a mathematical technique. With traditional programming, we take data and rules, and use these to develop an algorithm that will give us an answer. In the previous example, if we were using a traditional algorithm, we would take the data such as beats per minute and BMI, and use this data to create an algorithm that will determine whether the heart will fail or not. Essentially, it would be an if-then-else statement. When we submit inputs, we get answers based on what the algorithm we determined is, and this algorithm will not change. Machine Learning, on the other hand, takes data and answers and creates the algorithm. Instead of getting answers in the end, we already have the answers. What we get is a set of rules that determine what the machine learning model will be. The model determines the rules, and the if-then-else statement when it gets the inputs. Essentially, what the model does is determine what the parameters are in a traditional algorithm, and instead of deciding arbitrarily that beats per minute plus BMI equals a certain result, we use the model to determine what the logic will be. This model, unlike a traditional algorithm, can be continuously trained and be used in the future to predict values. Machine Learning relies on defining behavioral rules by examining and comparing large datasets to find common patterns. For instance, we can provide a machine learning program with a large volume of pictures of birds and train the model to return the label "bird" whenever it has provided a picture of a bird. We can also create a label for "cat" and provide pictures of cats to train on. When the machine model is shown a picture of a cat or a bird, it will label the picture with some level of confidence. This type of Machine Learning is called Supervised Learning, where an algorithm is trained on human-labeled data. The more samples you provide a supervised learning algorithm, the more precise it becomes in classifying new data. Unsupervised Learning, another type of machine language, relies on giving the algorithm unlabeled data and letting it find patterns by itself. You provide the input but not labels, and let the machine infer qualities that algorithm ingests unlabeled data, draws inferences, and finds patterns. This type of learning can be useful for clustering data, where data is grouped according to how similar it is to its neighbors and dissimilar to everything else. Once the data is clustered, different techniques can be used to explore that data and look for patterns. For instance, you provide a machine learning algorithm with a constant stream of network traffic and let it independently learn the baseline, normal network activity, as well as the outlier and possibly malicious behavior happening on the network. The third type of machine learning algorithm, Reinforcement Learning, relies on providing a machine learning algorithm with a set of rules and constraints, and letting it learn how to achieve its goals. You define the state, the desired goal, allowed actions, and constraints. The algorithm figures out how to achieve the goal by trying different combinations of allowed actions, and is rewarded or punished depending on whether the decision was a good one. The algorithm tries its best to maximize its rewards within the constraints provided. You could use Reinforcement Learning to teach a machine to play chess or navigate an obstacle course. A machine learning model is a algorithm used to find patterns in the data  without the programmer having  to explicitly program these patterns.(Music) So what advice would
+you give to someone who's looking to get
+into a career in AI. Yes absolutely. I had
+a bit of an unusual route becoming a data scientist or
+an AI specialists myself. I have a background in psychology
+so when I was studying, I was basically thinking
+of continuing to do academic research and
+not going to industry. But at some point in
+time, I had a realization that I didn't really want
+to become a professor. I didn't really want to teach or do research in
+an academic setting. I started looking for
+jobs and it was quite difficult because what we see today is sometimes what you'll learn in
+university doesn't translate directly into
+what companies want. So how do you bridge
+that gap exactly? For me, when I was at the time
+still in Tokyo, Japan, I didn't have a lot of
+resources around me or English speaking resources at the time where I could
+develop my skills. So I looked towards
+online courses and online courses helped me
+practice python, practice R, my data analysis skills through programming and I was able to develop a foundation
+in the skill set that was highly sought after by
+many different companies. Then from there,
+the question became, okay, now I have these skills, these newly developed
+skills through these courses that
+I've taken online, how do I translate that
+to something that I can show and demonstrate to
+potential employers? So then the next problem I
+had to deal with was, well, how do I demonstrate
+that some way? So I created a portfolio of different online
+assignment exercises projects to demonstrate that I could do the kinds of
+things that they were hoping that I could do to
+show my competency. I also when I came back
+to Toronto, Canada, I started doing meet ups to
+teach at these meet ups, teach R, teach Python,
+teach data science. Again, further demonstrate my competencies so that
+people could really see that I could do what I
+was claiming that I could do. Which was a little bit
+difficult because people would just look at
+my resume and you see, oh, you have a background psychology, what does that have to do
+with data science or AI? So it was hard in
+that sense that had to overcome that burden of proof. The final piece of advice
+that I would give is connect with fellow local AI specialists. Whether they are data scientists, specialists at
+particular field of AI, machine learning researchers,
+data engineers, just to get a better sense of what kind of AI
+specialists you might be interested in becoming
+because today there's so many different kinds
+of AI specialists. You could be very technical. You could be doing research on the latest state-of-the-art
+algorithms or you could be doing
+something a bit more business-oriented, like trying to optimize revenue, maybe some reporting as well. Trying to find ways
+to personalize a particular service to each and every kind of user
+that you might have. There's different aspects of
+AI and I think it's really important to have some clarity into what kind of role and
+what kind of job you want. The first step to do that
+is to be able to reach out and ask questions to people, who are
+already in the field. It's a great way to get a sense
+and also maybe even form some connections that
+might be meaningful in your career as well. Those
+are the four things. Number one is, acquire
+skills, wherever you can. Always be open to learning
+new things and new skills. Number two is demonstrate your capabilities through
+projects, exercises. Something that you
+can share online. Even blog posts and articles. Number three, if you can
+teach at meet ups or maybe even more ideally
+conferences, so you can demonstrate your
+competencies in public. Then number four is going to be try to connect with
+local experts or local specialists who are already in the field
+so you can get a better sense,
+what that career kind of road map might
+look like for you. (Music)(Music) Before we deep dive
+into how AI works, and its various use
+cases and applications, let's differentiate some of
+the closely related terms and concepts of AI:
+artificial intelligence, machine learning, deep learning,
+and neural networks. These terms are sometimes
+used interchangeably, but they do not refer
+to the same thing. Artificial intelligence
+is a branch of computer science dealing with a simulation of
+intelligent behavior. AI systems will typically demonstrate
+behaviors associated with human intelligence such as planning, learning, reasoning, problem-solving,
+knowledge representation, perception, motion, and manipulation, and to a lesser extent social
+intelligence and creativity. Machine learning is a subset of AI that uses computer algorithms to analyze data and make intelligent decisions based
+on what it has learned, without being
+explicitly programmed. Machine learning algorithms
+are trained with large sets of data and
+they learn from examples. They do not follow
+rules-based algorithms. Machine learning is what enables machines to solve
+problems on their own and make accurate predictions using the provided data. Deep learning is
+a specialized subset of Machine Learning that uses layered neural networks to simulate
+human decision-making. Deep learning algorithms
+can label and categorize information
+and identify patterns. It is what enables AI systems to continuously learn on the job, and improve the quality
+and accuracy of results by determining whether
+decisions were correct. Artificial neural networks
+often referred to simply as neural networks take inspiration from biological neural networks, although they work
+quite a bit differently. A neural network in AI is a collection of
+small computing units called neurons that take incoming data and learn to make
+decisions over time. Neural networks are often
+layered deep and are the reason deep learning
+algorithms become more efficient as the datasets
+increase in volume, as opposed to other machine
+learning algorithms that may plateau
+as data increases. Now that you have
+a broad understanding of the differences between
+some key AI concepts, there is one more differentiation that is important to understand, that between artificial
+intelligence and data science. Data science is the process
+and method for extracting knowledge and insights from large volumes of disparate data. It's an interdisciplinary field
+involving mathematics, statistical analysis,
+data visualization, machine learning, and more. It's what makes it
+possible for us to appropriate information,
+see patterns, find meaning from
+large volumes of data, and use it to make decisions
+that drive business. Data Science can use many of the AI techniques to
+derive insight from data. For example, it could use
+machine learning algorithms and even deep learning
+models to extract meaning and draw
+inferences from data. There is some intersection
+between AI and data science, but one is not
+a subset of the other. Rather, data science
+is a broad term that encompasses the entire data
+processing methodology. Well, AI includes everything
+that allows computers to learn how to solve problems and make
+intelligent decisions. Both AI and Data Science
+can involve the use of big data that is significantly
+large volumes of data. In the next few lessons, the terms machine learning, deep learning, and
+neural networks will be discussed in more detail. (Music)(Music) I remember that morning going to
+the lab and I was thinking this is it, this is the last Jeopardy game.
+It became real to me when the music played and Johnny Gilbert said
+from IBM Research in Yorktown Heights, New York, this is Jeopardy and I just went.
+Hear it is one day. This is the culmination of all this work.
+To be honest with you I was emotional. Watson.
+What is Shoe? You are right.
+We actually took the lead. We were ahead of them,
+but then we start getting some questions wrong. Watson?
+What is Leg? No, I'm sorry. I can't accept that.
+What is 1920's? No.
+What is Chic? No, sorry, Brad.
+What is Class? Class.
+You got it. Watson. What is Sauron?
+Sauron is right and that puts you into a tie for the lead with Brad.
+The double Jeopardy round of the first game I thought was phenomenal.
+Watson went on a terror. Watson, who is Franz List?
+You are right. What is Violin?
+Who is the Church Lady? Yes. Watson.
+What is Narcolepsy? You are right and with that you move to $36,681.
+Now, we come to Watson. Who is Bram Stoker and the wager, hello
+$17,973 and a two day total of $77,147. We won Jeopardy.
+They are very justifiably proud of what they've done.
+I would've thought that technology like this was years away
+but it's here now. I have the bruised ego to prove it.
+I think we saw something important today. Wow, wait a second. This is history.
+The 60th Annual Grammy Awards, powered by IBM Watson.
+There's a tremendous amount of unstructured data
+that we process on Grammy Sunday. Our partnership with the recording Academy
+really is focused on helping them with some of
+their workflows for their digital production. My content team is responsible not
+only for taking all this raw stuff that's coming in,
+but curating it and publishing it. You're talking about five hours of
+red carpet coverage with 5,000 artists, making that trip down the carpet
+with a 100,000 photos being shot. For the last five hours,
+Watson has been using AI to analyze the colors, patterns, and silhouettes of
+every single outfit that has passed through. So we've been able to see all the dominant
+styles and compare them to Grammy shows in the past.
+Watson's also analyzing the emotions of Grammy nominated song lyrics over the last
+60 years. Get this, it can actually identify
+the emotional themes in music and categorize them as joy,
+sadness, and everything else in between. It's very cool.
+Fantasy sports are an incredibly important and fun way that we serve sports
+fans. Our fantasy games drive
+tremendous consumption across ESPN digital properties,
+and they drive tune-in to our events and studio shows.
+But our users have a lot of different ways they can spend their time.
+So we have to continuously improve our game so they choose to spend that time with us.
+This year, ESPN teamed up with IBM to add a powerful new feature
+to their fantasy football platform. Fantasy football generates a huge volume of
+content - articles, blogs, videos, podcasts.
+We call it unstructured data - data that doesn't fit neatly
+into spreadsheets or databases. Watson was built to analyze that kind of
+information and turn it into usable insights. We train Watson on millions of fantasy football
+stories, blog posts, and videos.
+We taught it to develop a scoring range for thousands of players,
+their upsides and their downsides, and we taught it to estimate the chances of
+player will exceed their upside or fall below the downside.
+Watson even assesses a player's media buzz and their likelihood to play.
+This is a big win for our fantasy football players.
+It's one more tool to help them decide which running back or QB to start each week.
+It's a great complement to the award-winning analysts our fans rely on.
+As with any Machine Learning, the system gets smarter all the time.
+That means the insights are better, which means are you just can make better decisions
+and have a better chance to win their matchup every week.
+The more successful our fantasy players are, the more time they'll spend with us.
+The ESPN and IBM partnership is a great vehicle to demonstrate
+the power of enterprise-grade AI to millions of people,
+and it's not hard to see how the same technology applies to real life.
+There are thousands of business scenarios where
+you're assessing value and making trade-offs. This is what the future of
+decision-making is going to look like. Man and machine working together,
+assessing risk and reward, working through difficult decisions.
+This is the same technology IBM uses to help doctors mine millions of
+pages of medical research and investment banks fund market moving insights. (Music)
+
+
+Lesson Summary
+In this lesson, you have learned:
+
+AI-powered applications are creating an impact in diverse areas such as Healthcare, Education, Transcription, Law Enforcement, Customer Service, Mobile and Social Media Apps, Financial Fraud Prevention, Patient Diagnoses, Clinical Trials, and more.
+
+Some of these applications include:
+
+Robotics and Automation, where AI is making it possible for robots to perceive unpredictable environments around them in order to decide on the next steps.
+Airport Security, where AI is making it possible for X-ray scanners to flag images that may look suspicious.
+Oil and Gas, where AI is helping companies analyze and classify thousands of rock samples to help identify the best locations to drill for oil?  
+Some famous applications of AI from IBM include:
+
+Watson playing Jeopardy to win against two of its greatest champions, Ken Jennings and Brad Rutter.
+Watson teaming up with the Academy to deliver an amplified Grammy experience for millions of fans.
+Watson collaborating with ESPN to serve 10 million users of the ESPN Fantasy App sharing insights that help them make better decisions to win their weekly matchups.[MUSIC] Welcome to AI ethics, governance, and ESG. In this video, you will learn about what
+AI governance is and what it accomplishes, what ESG is and what it accomplishes, and how governance and
+ESG connect to AI ethics? Governance is the organization's act
+of governing through its corporate instructions, staff, its processes and
+systems to direct, evaluate, and monitor, and to take corrective
+action throughout the AI lifecycle to provide assurance that an AI system
+is operating as an organization intends it to, and as stakeholders expected to, and
+as may be required by relevant regulation. The objective of governance is to
+deliver trustworthy AI by establishing requirements for accountability,
+responsibility and oversight. Governance provides many benefits,
+including, for example, trust. When AI activities
+are aligned with values organizations can build systems
+that are transparent, fair and trustworthy, boosting client
+satisfaction and brand reputation. Another benefit is efficiency, when AI
+activities are standardized and optimized development can happen with greater
+efficiency, accelerating time to market. And compliance, when AI activities
+are already managed and monitored, adjusting them to align with new and
+forthcoming industry regulations and legal requirements is
+really less cumbersome. The successful governance program takes
+into account people, processes, and tools. It clearly defines the roles and responsibilities of people,
+in building and managing trustworthy AI, including leaders who will set
+policies and establish accountability. It establishes processes, for building, managing, monitoring and
+communicating about AI. And it leverages tools to
+gain greater visibility and consistency into AI system performance
+throughout the AI lifecycle. ESG stands for
+environmental social governance, and these are factors that are used to
+measure all non financial risks and opportunities at companies. At IBM, that translates into IBM impact,
+our strategy and philosophy on ESG. IBM impact is comprised of three pillars, that we believe will create
+a more sustainable future. These pillars are environmental impact,
+equitable impact, and ethical impact. And we accomplish this by making
+a lasting positive impact, in the world in business ethics,
+our environment, and in the communities in which we work and
+live. The governance aspect of ESG
+pertains to creating innovations, policies and
+practices that prioritize ethics, trust, transparency and
+above all accountability. And AI ethics is a significant aspect
+of our governance initiatives. For example,
+in 2022 we're aiming to reach 1,000 ecosystem partners trained in tech ethics. This goal matters because we
+believe the benefits of AI, should touch the many and
+not just the few. And developing a culture of
+trustworthy AI must happen everywhere, not just within IBM. We're leading the way in AI ethics as we
+aspire to create a more ethical future. [MUSIC](Music) So, can you talk
+about advice for people who want to get into AI,
+especially the teenagers like you or other students were fascinated by technology
+and AI. So really what I believe, first of all,
+is I mean I've seen a lot of misconceptions about AI, really wherever I
+go. Whenever people ask me,
+"How can I get into the field of machine learning or AI?"
+There are lots of misconceptions, they feel like machine learning has its own
+independent, isolated subject, and if I learn it,
+I can go ahead and implement machine learning algorithms with these things.
+But really if you think about it, machine learning is just another algorithm
+in the toolbox of algorithms, when it comes to
+programming. Albeit in some cases, it can be
+much more powerful than other algorithms, and then on a very fundamental level,
+it is another algorithm. So before you get into the field of machine
+learning, before you get into the field of AI,
+it's very important that you understand how to code.
+Since machine learning is relatively complex technology,
+having a very advanced knowledge of how computers work; how exactly coding works.
+Then even sometimes a back-ends behind compilers, really does help you on your journey of
+learning how to code machine learning algorithms. The reason I say this is because machine learning
+isn't just a regular algorithm that you implement, its not just path finding
+or search or something of that sort. It's special because it
+requires intense hardware acceleration. It requires you to understand
+at least a little bit of the calculus that goes behind backpropagation.
+All of this is necessary to understand the fundamental workings of machine learning
+and AI. So really to summarize
+what I'd recommend is first of all, you should be passionate about technology
+itself. If you're not passionate about
+technology, machine learning technology, it really isn't something that you should
+go and work towards. Then from there, once you know that you're
+passionate about it, you want to do it. Then go ahead and start off by
+learning concepts in the field of technology. Learn how to code in languages like Python,
+Julia as a new language, SWIFT because of the new SWIFT for TensorFlow
+project. Then from there, go ahead and learn a little
+bit at least of the actual math behind neural networks.
+I mean, I remember when I stumbled upon Watson, that was the first time I ever heard of machine
+learning. When I went from Watson to custom neural networks,
+the first thing I did is I actually drew a small neural network on paper,
+and in the backpropagation, manually to understand how exactly weights
+are updated, how a loss values work, all these sorts of
+things. Once you have that fundamental understanding,
+then you go ahead to implement those neural networks from scratch and your
+languages. Then once you have
+a good idea of how it works, once you practice. Once you learn by example,
+then you're finally ready to go ahead and use different libraries,
+use different toolkits to enable you to rapidly prototype and build applications
+in the field of machine learning. So that's a very very high level view point,
+that I'd say to get into machine learning, but of course,
+there are better ways and more intuitive ways to get into machine learning
+as well. For example, Watson, if you take a look at
+how it provides its APIs on the cloud,
+you don't need to understand any of the workings behind machine learning to use
+Watson, and at the same time,
+you can still leverage all those powerful capabilities,
+the language translator. Lets you use practically state of the art,
+neural machine translation techniques, and even train your own models without having
+to understand a single clue
+behind what goes behind the models. So being able to start off with a toolkit
+like Watson, getting a good idea of
+both programming and machine learning at once, what machine learning is and isn't capable
+of. Then getting to the custom math, is another
+great way. (Music)(Music) My latest poll of top cities for AI,
+which is primarily myself just looking at what's coming through my own inbox in
+terms of opportunities, it's fairly widespread. Actually there are a lot of opportunities
+in a lot of different places. So there's of course the San Francisco Bay
+area, which continues to be a hotbed for
+startups in AI and robotics, and I think will continue to develop,
+there's Boston in the United States which also
+has a large number of startups, there's Seattle. Then here in Canada,
+we've been doing a great job in both Toronto and Montreal,
+of actually developing quite a robust and thriving AI ecosystem
+that I think is going to also continue to develop and grow.
+So I think we're quite excited about that. Then farther afield there
+are a number of locations in Europe, Asia, some opportunities in China certainly,
+China and India as well, absolutely. So if you're located
+somewhere next to a major city center, I think in any of these areas,
+you're well-positioned to to launch your AI career.
+Toronto is exploding. It's been amazing to watch and be a part of.
+We have Geoffrey Hinton obviously one of the three pillars
+of the Turing Award for major contributions in deep learning,
+and the whole Vector Institute and ecosystem has come up
+around the wonderful progress that came out of
+the University of Toronto over the last few decades.
+So what we're seeing is wonderful incubators and startups in the area,
+investing heavily in AI technology and capabilities, we're seeing large companies bringing in research
+labs and putting those right next to the university,
+and we're seeing a wonderful amount of funding coming in for research
+specifically in AI in Toronto. So I think we're competitive with any of
+the best places to learn and work on AI, in the world.
+I think Canada is actually doing very well. We've done an excellent job overall in terms
+of centralizing some really fantastic AI talents. So in Toronto and Montreal in
+particular and also in Vancouver, but Vancouver, Edmonton,
+a number of different cities in Canada, have really become very strong AI centers.
+They continue to grow and we're attracting a lot of great AI talents,
+and I believe that will just continue. So Canada is shaping up to be
+a great place to come and do AI research and work in AI. (Music)[MUSIC] Welcome to AI ethics and regulations. In this video, you will learn
+about what an AI regulation is, how AI regulations connect with AI ethics, and why it's important to understand
+AI regulations if you work with AI. A regulation is a government
+rule enforceable by law. The landscape of regulations
+around AI is evolving rapidly. And it's important to understand key
+pieces of regulation in order to design, develop, and deploy, and
+use AI legally and ethically. IBM's position is that we call for precision regulation of
+artificial intelligence. And we support targeted policies that
+would increase the responsibilities for companies to develop and
+operate trustworthy AI. Precision regulation of AI, refers to a regulation that aims to
+be risk-based, context specific, and which allocates responsibility to
+the party that is closest to the risk, which might shift throughout
+the AI lifecycle. Specifically,
+IBM has proposed a precision regulation framework that incorporates
+five policy imperatives for organizations that provide and
+or use AI systems. First, designate an AI ethics official,
+a lead official responsible for compliance with trustworthy AI. Develop different rules for
+different risks. In other words, regulate AI in
+context not the technology itself. Don't hide your AI make it transparent. Explain your AI. So, in other words, make it
+explainable not a black box decision. And test your AI for bias. [SOUND](Music) AI is at the forefront of a new era
+of computing, Cognitive Computing. It's a radically new kind of computing,
+very different from the programmable systems that
+preceded it, as different as those systems were from the tabulating machines of a century
+ago. Conventional computing solutions, based on
+the mathematical principles that emanate from the 1940's,
+are programmed based on rules and logic intended to derive mathematically precise
+answers, often following a rigid decision tree approach.
+But with today's wealth of big data and the need for more complex evidence-based decisions,
+such a rigid approach often breaks or fails to keep up with available information.
+Cognitive Computing enables people to create a profoundly new kind of value,
+finding answers and insights locked away in volumes of data.
+Whether we consider a doctor diagnosing a patient,
+a wealth manager advising a client on their retirement portfolio,
+or even a chef creating a new recipe, they need new approaches to
+put into context the volume of information they deal with on
+a daily basis in order to derive value from it.
+These processes serve to enhance human expertise. Cognitive Computing mirrors some of
+the key cognitive elements of human expertise, systems that reason about problems like a
+human does. When we as humans seek to
+understand something and to make a decision, we go through four key steps.
+First, we observe visible phenomena and bodies of evidence.
+Second, we draw on what we know to interpret what we
+are seeing to generate hypotheses about what it means.
+Third, we evaluate which hypotheses are right or wrong.
+Finally, we decide, choosing the option that seems best and acting accordingly.
+Just as humans become experts by going through the process of observation,
+evaluation, and decision-making, cognitive systems use similar processes
+to reason about the information they read, and they can do this at massive speed and
+scale. Unlike conventional computing solutions,
+which can only handle neatly organized structured data
+such as what is stored in a database, cognitive computing solutions can
+understand unstructured data, which is 80 percent of data today.
+All of the information that is produced primarily by humans for other humans to consume.
+This includes everything from literature, articles,
+research reports to blogs, posts, and tweets. While structured data is governed by
+well-defined fields that contain well-specified information,
+cognitive systems rely on natural language, which is governed by rules of
+grammar, context, and culture. It is implicit, ambiguous,
+complex, and a challenge to process. While all human language is difficult to parse,
+certain idioms can be particularly challenging. In English for instance,
+we can feel blue because it's raining cats and dogs,
+while we're filling in a form, someone asked us to fill out.
+Cognitive systems read and interpret text like a person.
+They do this by breaking down a sentence grammatically, relationally,
+and structurally, discerning meaning from the semantics of the written material.
+Cognitive systems understand context. This is very different from simple speech
+recognition, which is how a computer translates
+human speech into a set of words. Cognitive systems try to understand
+the real intent of the users language, and use that understanding to draw inferences
+through a broad array of linguistic models and algorithms.
+Cognitive systems learn, adapt, and keep getting smarter.
+They do this by learning from their interactions with us,
+and from their own successes and failures, just like humans do.(Music) The original AI researchers were very interested in games because they were extremely complex.
+Huge numbers of possible positions and gains were available,
+yet they're simple in a certain way. They're simple in that the moves are well-defined,
+the goals are well-defined. So you don't have to solve everything all
+at once. With chess in particular,
+in the work on Deep Blue at IBM, what became apparent,
+what computers could do on our problem like that was bringing
+a massive amount of compute resource to do deeper searches,
+to investigate more options of moves in chess than was previously possible.
+Watson defeating jeopardy. So this was another crossover point,
+in the development of AI and cognitive computing. That the questions that IBM was able to answer
+with jeopardy were questions that weren't
+simply looking up in the database, and finding the answer somewhere.
+Rather it required information retrieval over lots of different information resources.
+Then the combining of these together using machine learning that could
+arrive at answers that went beyond what was simply written somewhere.
+Now, our technology is so much better and so much more advanced that we're
+really ready to move on and to tackle much more challenging problems that
+have this ill-defined or messy nature. Every industry from oil and gas,
+to healthcare, to media and entertainment, to retail are just being
+swamped by a tsunami of unstructured data. That can be multimedia,
+can be images, it can be video, it can be text.
+It's really the ability to understand that data that is becoming critical.
+One of the most valuable applications of cognitive computing is in the health domain.
+Medical providers, physicians, nurses, assistants face enormous challenges,
+leveraging all of the available information that's out there.
+The medical literature increases by about 700,000 articles every year.
+There's already millions of journal articles out there,
+and today's imaging technologies produce very rich amount of information.
+In fact, a particular scan might have 5,000 images in it.
+You combine the image analysis with natural language understanding,
+and text analysis, leveraging the medical literature,
+leveraging the patient's medical history, the physician has got a lot
+more information and knowledge at their disposal to help them
+make the best diagnosis possible. Clearly, there is intersection
+of what the computer can do and what people are able to do.
+That gives you something that's better than each of them individually.
+What is going to be truly interesting is to see what is
+the best way for them to have really symbiotic type of interaction,
+taking advantage of each other's strengths to collectively solve a problem?
+Watson, it looks at another aspect of intelligence, and a much more difficult aspect
+of intelligence, that is language. You have to be able to interpret
+the questions and come up with the right answers no matter what the topic.
+So I think the ideal scenario for AI in the modern world
+is not to try and develop a system that completely autonomously
+handled every aspect of a problem, but have a collaboration
+between machines doing what they do best and people doing what they do
+best. I can imagine that combination will do
+better than either one by themselves. We're constantly here looking for
+what's the next grand challenge problem we can take on?
+That's not just around the corner or a year away,
+but it's going to take a multi-year effort. When we get there, we'll have something
+that's valuable for the world. (Music)[MUSIC] What does AI have in store for
+us in the future? >> My crystal ball is a little cloudy, so I don't know if I have a prediction
+that I would bet money on. What I do know is,
+what we have seen is the way AI has progressed, it starts fairly slowly, but then it gains steam exponentially. One good example is, DeepMind put the system together
+that won in the game of Go. It's a 2,500-year-old game,
+which won against a human opponent. But what's most amazing is while
+the first system was able to out do 2,500 years of human history in the game,
+the second generation of that system was able to outplay the first generation
+of the system in less than one year. And it only took about
+40 hours of training for it to be able to achieve that
+level of proficiency in that game. And it won 100 games out of 100. So what we do know is the pace
+of which this technology is accelerating is just breathtaking. And it's not something we
+can predict very well. So if there was one prediction I were
+to make it's, it's going to get faster, it's going to get better,
+it's going to get cheaper, and it is going to happen very, very rapidly
+within a very short period of time. >> It's going to be an interesting world. It's going to evolve very rapidly. Because these technologies not only can
+perform tasks that we've never seen automated before, but learn as they
+do them and continue to improve. So what we'll see is
+we'll deploy systems and every year they'll get incrementally
+better at the tasks they're trying to do. So we won't have to drive
+our own cars anymore. Hopefully, we won't have
+to put away our own dishes. There'll be a lot of simple things in
+our lives that become automated and become eliminated from
+our daily task list. It's a revolution that
+we've been through before. The first washing machines,
+the first dishwashers, etc. All these things that helped us,
+enriched our lives and simplified the way we live and
+increased our comfort. And I think we'll see many
+more such evolutions as we watch the AI world unfold. >> Particularly in healthcare,
+I think we'll see faster recovery times, we'll see better patient outcomes,
+we'll see people spending less money and time in hospitals and
+in various care centers. AI has been game changing for healthcare. There's so much information that we can
+take out of a particular system and apply it to another. >> We can build all sorts of
+models that can be hugely beneficial to long-term care. So that's something that I'm very
+excited about and seeing that evolve. >> Looking into the crystal ball,
+I'm always apprehensive to make long-term predictions, but my hope is that we are
+able to indeed deploy these collaborative robotic systems, including self-driving
+cars, to make people's live better. That's the idea, is to use AI and
+robotics technology to improve the quality of life for
+the whole spectrum of society. So I would be looking forward
+to a future in which AI plays a central role in freeing us
+from the dull, the mundane, the dirty, the dangerous jobs, and hopefully providing us with more
+time to spend with our families. Better health, potentially,
+better healthcare through data analysis. And so I think if envision
+the future that I hope for will come to pass in a number of years, we'll be really leveraging these
+technologies to make our lives better and to free ourselves from dull,
+dirty, dangerous work. [MUSIC]Can you give Can you give
+some specific examples of applications of AI? Certainly. So we have a fairly large collaborative
+robotics program. So the cobots we work on are primarily targeted
+at the moment at manufacturing applications, manufacturing,
+warehousing, logistics, these types of applications
+where normally you may have a person doing a job
+that can be dull, it can be dangerous, and having robotic support or having a robot actually do the job may make it much safer, more efficient, and
+more effective overall. So we work on a lot of
+those types of applications, particularly where
+the robots are trying to interface directly
+with people, as I said. So the robot may help an individual to
+lift a heavy container, or help to move
+items on a stocking, on a shelf stocking purposes, so all these kinds
+of applications, where I think we'll see
+collaborative robots move first, and then hopefully one day and maybe into your home
+to help you with the laundry and dishes in
+the kitchen. Hopefully. For example, in oil and
+gas, there's a company, a pretty large oil
+and gas company called the Abu Dhabi
+National Oil Company, and one of the problems that any kind of oil company
+has to deal with is, where's the best place for
+them to drill for oil? So they have to find these rock samples of
+all these different places, for this place and in
+this place, and that place, and maybe hundreds of different places for
+them to drill oil. From these rock samples, now you have
+all these fine sheets of rock in maybe hundreds
+or thousands of them, and it's up to these oil
+companies to be able to classify these using they're trained
+and expert geologists. But to train
+geologists to properly classify these sheets of
+rock can be quite difficult, it could be time-consuming, could cost a lot
+of money as well. So one way to help augment the capabilities of humans is to be able to use
+computer vision, to classify these rocks
+samples to be able to identify which of
+these locations are the best to drill for oil? That's in oil and gas. Imagine before this,
+if there was a very, very rare form of cancer experienced by a doctor in Dubai, and if there were
+another case in New Zealand, how do you think they would have actually figured out that, "Hey, we're both dealing with this very rare case since we
+work together." That wouldn't have been
+possible in the past, but now with machine
+learning technology being able to aggregate
+knowledge from so many different sources into one centralized Cloud
+and understand it, and provide that information inaccessible, intuitive,
+implicit way. Now, that New Zealand doctor
+can actually go ahead and use this machine learning technique to say, "Hey, just a few days ago there was a doctor with a very similar case," even though it may
+not be the exact same thing. Sure. So we work with a number of startups and the number
+of enterprises, and I'll just bring
+a couple of examples. So what they like to
+talk quite a bit about is company out in California
+called Echo Devices. What they've done
+is they've taken a simple device which
+is stethoscope, something we see around
+the neck of every physician, nurse, and the health
+care professional, and they taken that device and basically have transformed
+that into first, into a digital device by cutting
+the tube on stethoscope, inserting a digitizer into it
+that takes an analog sound, transforms it into
+a digital signal, amplifies it in the process, makes it a lot easier
+for people to hear, it's amplified sound,
+the sound of your heart, or your lungs working. But what it also allows us to do is that allows us to take the digital signal and sent it via Bluetooth to a smart phone. Once it's on a smart phone, they're able to graph it, which allows the physician
+to better understand, not just through audio data but through an actual graph of
+how your heart is working. But because the information is now captured in
+the digital world, it can now be central
+machine-learning algorithm, and that's what they do. A machine-learning algorithm can actually learn from that, apply your previous learnings
+from the human doctors, cardiologist, and now assist a physician who is using the device in
+their current diagnosis. So it basically not replacing a physician in
+any way, shape, or form, it is assistive technology
+which is taking the learnings of the previous generations
+of human cardiologist, and helping in the diagnosis
+in the current state. To me, that's a perfect example
+of taking the X, which is in this particular case
+as a stethoscope, and then adding AI to that X. I have a really nifty
+name for that, they call it Shazam
+for Heartbeats. (Music)[MUSIC] What advice would you give to
+someone who wants to learn AI, or perhaps even get into a career in AI? >> So I believe artificial intelligence
+is going to permeate every sphere of human endeavor. So the first thing I would say is
+I would congratulate the person who've chosen to study and
+apply AI as having made the right choice. The second part I would say is because
+the technology is moving so fast, because we have not yet
+discovered what we're going to discover, I think it's really important
+to keep an open mind. It's important to keep an open mind and
+not get too attached to any particular technology, any particular technique,
+any particular implementation. But to really think forward and think outside of the box,
+and think about what may, think about the art of the possible,
+think about what may come. And the number one advice I would
+give is apply what you learn. Don't make it academic, make it practice. >> The first thing I would say is take
+a look at a great Coursera course, like this one, and grasp the basics of AI. Get a fundamental lay of the land and understand what is involved in
+various types of AI systems. And perhaps find the niche that
+you're most interested in. And then, of course,
+look at academic programs that can help you to learn more about
+that specific area. And for students who are coming up
+through high school, for example, I would say definitely spend time
+focusing on math and science. Certainly, all disciplines are valuable,
+but your knowledge of mathematics and science will certainly pay off
+when you're working on AI systems. Because there are tons
+of opportunities and you'll need mathematics to really fully
+understand how the AI systems operate. So take your mathematics and
+your science seriously. And then look at Coursera and
+then beyond to other educational programs that can give you the basis you need
+to really jump into the industry. >> The field of AI has changed
+a lot in the last five years. No longer require a PhD in some
+kind of advanced mathematics or know some obscure programming language. You just have to know how to use the
+software APIs and understand the problem. For example, you can use Watson, and you just have to understand the problem
+and understand how the API works. But you still require some advance
+knowledge if you would like to build your own algorithm. >> So artificial intelligence machine
+learning, this is a very important field. It is the future of technology. Because it essentially opens up this whole
+new world of interaction with computers. A world that so far,
+we barely even knew existed. And it enables us to interact with
+computers in an implicit way. But what I would say is that while
+machine learning technology is important, it's not something that you
+can learn in isolation. Machine learning technology is
+not its own standalone subject. It's another algorithm in the toolbox
+of a plethora of algorithms that programmers will use
+in their applications, albeit a much more intelligent or
+a much more powerful algorithm than most. But still, it's another algorithm. So before you learn machine
+learning technology, it's very important to understand
+the actual programming and the technology that goes behind
+machine learning technology. Specifically because machine learning
+actually requires this kind of next generation of programming,
+hardware acceleration, so much more, that regular programming and regular
+algorithms don't necessarily require. So I'd really recommend making sure that,
+first of all, you are passionate about
+technology itself. If you are, continue, learn about
+programming, learn about coding, learn how to actually speak
+the computer's language. Learn about the computational
+thinking behind code. And then go ahead and learn about machine
+learning from the very, very basics. Start off with an API like IBM Watson
+to help you get an idea of what it's capable of. Then move on to more advanced, custom
+techniques and the math behind them. >> So AI is a fascinating field. But it's built on a huge
+number of foundational domains or foundational fields of study. So you really need to
+know your mathematics, you really need to know your probability
+statistics, your optimization. And you have to be able to program. You have to be able to take advantage of
+the tools, that are out there to train these networks and
+understand how they work. So AI is really a broad field that
+requires a lot of specialists and a lot of specialization in a lot of areas. So one of the best things, you
+can do is get started quickly. Start playing with some simple tasks. Try to identify digits or
+try to find cats on Internet pictures, right, things like this. These are wonderful challenges, that can
+get you going in understanding what you need to learn about that field. >> Getting into AI now, is like getting
+into anything to do with Internet, 20, 30 years ago. It's kind of the Renascence
+of software right now. It's possible now,
+it wasn't possible ten years ago. We have the computing technology. We have the computing power. We have the knowledge. And this is a field that will only grow. So I think you need to get in yesterday. [MUSIC](Music) In a world of dramatic digital transformation, companies are looking to AI to really help them shape the future of work. AI can predict and inform future outcomes. It enables people to do higher value work and businesses to imagine new models. It can automate decisions, processes, experiences but AI is not magic. The truth is there is no AI without IA or information architecture, but many organizations can't start because 80% of their data is locked in silos and not business-ready. So, how do you turn your aspirations into outcomes? Through a prescriptive set of steps we call the ladder AI and it starts with modernizing all of your data on a single platform that runs on any cloud. Then on the ladder itself, there are four steps First, collect the data to make it simple and accessible Really think about the models you need to train Second, organize your data to create a business-ready analytics foundation for those AI models. Third, analyze your data both for trust and transparency Because there's no use in applying and scaling AI if you can't explain the outcome, detect bias or prove its accuracy Fourth, once you can really trust your data and the AI that you deploy Then you can realize its full value Inside of the apps and processes that control your everyday work. In other words, The last step is infuse or you begin to operationalize AI throughout your entire business We help thousands of enterprises put AI to work by unlocking the value of their data and this AI and multi-cloud world By delivering the right set of skills for their people and by building trust and transparency into AI. That's the ladder to AI in a nutshell. Let's start climbing. (Music)(Music) Can you talk about AI in action. To give an example of say machine learning in action today, how companies have
+actually implemented it, there's one example that I
+always love to go back to, and it is the example
+of Woodside Energy, a company in the Australia
+New Zealand region. Now originally, they actually contacted IBM because they wanted the IBM to be able to create essentially a system
+that can understand the different documents and the research that they're
+engineers come up with, and have Watson and
+understand that, and essentially replace some of the engineers on their team. IBM actually went ahead and build the application
+that worked to Watson was able to understand
+that unstructured content, but they never ended up replacing
+any of their engineers. Instead, they actually ended
+up hiring more engineers, because now they realized
+that two things. First of all, the barrier of entry for each engineer is now lower and knowledge can now be shared more effectively
+among the teams. Because now instead of
+research being written and put into an archive drawer where it's never seen again, Watson's ingesting that data, understanding it and providing
+it to whoever needs it, whoever Watson thinks
+would need that data. So if you imagine in
+these TV shows and in these movie scenes as
+well, you have sometimes, if someone's looking for
+a particular suspect in this particular traffic
+intersection or whatnot, if passed through
+this intersection, and there's of course
+some cameras around. So we have the
+security guard maybe, trying to look through
+hours and hours, dozens and hundreds
+of hours of footage, maybe at 10x speed and find that particular black SUV
+or that green car. Then as soon as they find it at the end of the episode
+or whatnot, then say aha, we
+found that person. But if you had some sort of
+computer vision algorithm running on this video for
+just the entire time, then you wouldn't have
+a need for some person to have to manually watch through hours and
+hours of footage. Our specific use case is actually triggering new neural pathways
+in the brain to form. As you can imagine, there's a lot of information
+that happens there between the connection of how your body functions and
+how your brain functions, and what parts of
+the brain are damage, what parts of the brain
+aren't damaged, and how you're actually moving
+the person or how you're triggering certain things
+in the human body to happen in order for
+new neural pathways to form. So what we've done is actually, we've created massive data sets of information of
+how people move, and how that responds to
+different areas of the brain. Through that information,
+we're able to trigger specific movements
+with a robotic device, which in turn creates these neural pathways
+to form in the brain, and therefore
+recovering the person who suffered
+a neurological trauma. (Music)

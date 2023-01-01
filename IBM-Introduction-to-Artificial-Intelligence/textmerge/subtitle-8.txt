@@ -1,0 +1,57 @@
+(Music) Machine Learning is a broad field and we
+can split it up into three different categories, Supervised Learning,
+Unsupervised Learning, and Reinforcement Learning. There are many different tasks we can solve
+with these. Supervised Learning refers to
+when we have class labels in the dataset and we use these
+to build the classification model. What this means is when we receive data,
+it has labels that say what the data represents. In a previous example,
+we had a table with labels such as age or sex.
+With Unsupervised Learning, we don't have class labels
+and we must discover class labels from unstructured data.
+This could involve things such as deep learning looking at pictures to train
+models. Things like this are typically done
+with something called clustering. Reinforcement Learning is a different subset,
+and what this does is it uses a reward function to
+penalize bad actions or reward good actions. Breaking down Supervised Learning,
+we can split it up into three categories, Regression, Classification and Neural Networks.
+Regression models are built by looking at the relationships between
+features x and the result y where y is a continuous variable.
+Essentially, Regression estimates continuous values.
+Neural Networks refer to structures that imitate the structure of the human brain.
+Classification on the other hand, focuses on discrete values it identifies.
+We can assign discrete class labels y based on many input features x.
+In a previous example, given a set of features x,
+like beats per minute, body mass index, age and sex,
+the algorithm classifies the output y as two categories, True or False,
+predicting whether the heart will fail or not.
+In other Classification models, we can classify results into more than two
+categories. For example, predicting whether
+a recipe is for an Indian, Chinese, Japanese, or Thai dish.
+Some forms of classification include decision trees,
+support vector machines, logistic regression, and random forests.
+With Classification, we can extract features from the data.
+The features in this example would be beats per minute or age.
+Features are distinctive properties of input patterns that
+help in determining the output categories or classes of output.
+Each column is a feature and each row is a data point.
+Classification is the process of predicting the class of given data points.
+Our classifier uses some training data to understand
+how given input variables relate to that class. What exactly do we mean by training?
+Training refers to using a learning algorithm to determine
+and develop the parameters of your model. While there are many algorithms
+to do this, in layman's terms, if you're training a model to
+predict whether the heart will fail or not, that is True or False values,
+you will be showing the algorithm some real-life data labeled True,
+then showing the algorithm again, some data labeled False,
+and you will be repeating this process with data having True or False values,
+that is whether the heart actually failed or not.
+The algorithm modifies internal values until it has learned to tell from
+data that indicates heart failure that is True or not, that is False.
+With Machine Learning, we typically take a dataset and split it into three sets,
+Training, Validation and Test sets. The Training subset is
+the data used to train the algorithm. The Validation subset is used to validate
+our results and fine-tune the algorithm's parameters.
+The Testing data is the data the model has never seen
+before and used to evaluate how good our model is.
+We can then indicate how good the model is using terms like,
+accuracy, precision and recall.

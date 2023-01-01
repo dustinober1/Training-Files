@@ -1,0 +1,73 @@
+Can you give Can you give
+some specific examples of applications of AI? Certainly. So we have a fairly large collaborative
+robotics program. So the cobots we work on are primarily targeted
+at the moment at manufacturing applications, manufacturing,
+warehousing, logistics, these types of applications
+where normally you may have a person doing a job
+that can be dull, it can be dangerous, and having robotic support or having a robot actually do the job may make it much safer, more efficient, and
+more effective overall. So we work on a lot of
+those types of applications, particularly where
+the robots are trying to interface directly
+with people, as I said. So the robot may help an individual to
+lift a heavy container, or help to move
+items on a stocking, on a shelf stocking purposes, so all these kinds
+of applications, where I think we'll see
+collaborative robots move first, and then hopefully one day and maybe into your home
+to help you with the laundry and dishes in
+the kitchen. Hopefully. For example, in oil and
+gas, there's a company, a pretty large oil
+and gas company called the Abu Dhabi
+National Oil Company, and one of the problems that any kind of oil company
+has to deal with is, where's the best place for
+them to drill for oil? So they have to find these rock samples of
+all these different places, for this place and in
+this place, and that place, and maybe hundreds of different places for
+them to drill oil. From these rock samples, now you have
+all these fine sheets of rock in maybe hundreds
+or thousands of them, and it's up to these oil
+companies to be able to classify these using they're trained
+and expert geologists. But to train
+geologists to properly classify these sheets of
+rock can be quite difficult, it could be time-consuming, could cost a lot
+of money as well. So one way to help augment the capabilities of humans is to be able to use
+computer vision, to classify these rocks
+samples to be able to identify which of
+these locations are the best to drill for oil? That's in oil and gas. Imagine before this,
+if there was a very, very rare form of cancer experienced by a doctor in Dubai, and if there were
+another case in New Zealand, how do you think they would have actually figured out that, "Hey, we're both dealing with this very rare case since we
+work together." That wouldn't have been
+possible in the past, but now with machine
+learning technology being able to aggregate
+knowledge from so many different sources into one centralized Cloud
+and understand it, and provide that information inaccessible, intuitive,
+implicit way. Now, that New Zealand doctor
+can actually go ahead and use this machine learning technique to say, "Hey, just a few days ago there was a doctor with a very similar case," even though it may
+not be the exact same thing. Sure. So we work with a number of startups and the number
+of enterprises, and I'll just bring
+a couple of examples. So what they like to
+talk quite a bit about is company out in California
+called Echo Devices. What they've done
+is they've taken a simple device which
+is stethoscope, something we see around
+the neck of every physician, nurse, and the health
+care professional, and they taken that device and basically have transformed
+that into first, into a digital device by cutting
+the tube on stethoscope, inserting a digitizer into it
+that takes an analog sound, transforms it into
+a digital signal, amplifies it in the process, makes it a lot easier
+for people to hear, it's amplified sound,
+the sound of your heart, or your lungs working. But what it also allows us to do is that allows us to take the digital signal and sent it via Bluetooth to a smart phone. Once it's on a smart phone, they're able to graph it, which allows the physician
+to better understand, not just through audio data but through an actual graph of
+how your heart is working. But because the information is now captured in
+the digital world, it can now be central
+machine-learning algorithm, and that's what they do. A machine-learning algorithm can actually learn from that, apply your previous learnings
+from the human doctors, cardiologist, and now assist a physician who is using the device in
+their current diagnosis. So it basically not replacing a physician in
+any way, shape, or form, it is assistive technology
+which is taking the learnings of the previous generations
+of human cardiologist, and helping in the diagnosis
+in the current state. To me, that's a perfect example
+of taking the X, which is in this particular case
+as a stethoscope, and then adding AI to that X. I have a really nifty
+name for that, they call it Shazam
+for Heartbeats. (Music)

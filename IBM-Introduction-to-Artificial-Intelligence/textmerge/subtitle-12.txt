@@ -1,0 +1,66 @@
+(Music) Some of the most common application areas
+of AI include natural language processing, speech, and computer vision.
+Now, let's look at each of these in turn. Humans have the most advanced method of
+communication which is known as natural language. While humans can use computers to send
+voice and text messages to each other, computers do not innately
+know how to process natural language. Natural language processing is a subset of
+artificial intelligence that enables computers to understand the meaning of human
+language. Natural language processing uses machine learning
+and deep learning algorithms to
+discern a word's semantic meaning. It does this by deconstructing sentences grammatically,
+relationally, and structurally and understanding the context of use.
+For instance, based on the context of a conversation, NLP can determine if the word
+"Cloud" is a reference to cloud computing or the mass of
+condensed water vapor floating in the sky. NLP systems might also be able
+to understand intent and emotion, such as whether you're asking a question out
+of frustration, confusion, or irritation.
+Understanding the real intent of the user's language,
+NLP systems draw inferences through a broad array of linguistic models and algorithms.
+Natural language processing is broken down into
+many subcategories related to audio and visual tasks.
+For computers to communicate in natural language, they need to be able to convert speech into
+text, so communication is more natural and easy
+to process. They also need to be able to convert text-to-speech,
+so users can interact with computers without the requirement to stare at a screen.
+The older iterations of speech-to-text technology require programmers to go
+through tedious process of discovering and codifying
+the rules of classifying and converting voice samples into text.
+With neural networks, instead of coding the rules,
+you provide voice samples and their corresponding text.
+The neural network finds the common patterns among the pronunciation
+of words and then learns to map
+new voice recordings to their corresponding texts.
+These advances in speech-to-text technology are the reason we have real time transcription.
+Google uses AI-powered speech-to-text in there Call Screen feature to
+handle scam calls and show you the text of the person speaking in real time.
+YouTube uses this to provide automatic closed captioning.
+The flip side of speech-to-text is text-to-speech also known as speech synthesis.
+In the past, the creation of a voice model required hundreds of hours of
+coding. Now, with the help of neural networks,
+synthesizing human voice has become possible. First, a neural network ingests numerous samples
+of a person's voice until it can tell whether
+a new voice sample belongs to the same person. Then, a second neural network
+generates audio data and runs it through the first network to see if it
+validates it as belonging to the subject. If it does not, the generator corrects
+its sample and reruns it through the classifier. The two networks repeat the process
+until they generate samples that sound natural. Companies use AI-powered voice synthesis to
+enhance customer experience and give their
+brands their unique voice. In the medical field,
+this technology is helping ALS patients regain their true voice instead of using a computerized
+voice. The field of computer vision focuses on
+replicating parts of the complexity of the human visual system,
+and enabling computers to identify and process objects in images and videos,
+in the same way humans do. Computer vision is one of the technologies
+that enables the digital world to interact with the physical
+world. The field of computer vision has
+taken great leaps in recent years and surpasses humans in tasks related
+to detecting and labeling objects, thanks to advances in deep learning and neural
+networks. This technology enables self-driving cars
+to make sense of their surroundings. It plays a vital role in
+facial recognition applications allowing computers to match images of
+people's faces to their identities. It also plays a crucial role
+in augmented and mixed reality. The technology that allows
+computing devices such as smartphones, tablets, and smart glasses to overlay and embed
+virtual objects on real-world imagery. Online photo libraries like Google Photos,
+use computer vision to detect objects and classify images by the type of content they
+contain. (Music)

@@ -1,0 +1,53 @@
+(Music) The original AI researchers were very interested in games because they were extremely complex.
+Huge numbers of possible positions and gains were available,
+yet they're simple in a certain way. They're simple in that the moves are well-defined,
+the goals are well-defined. So you don't have to solve everything all
+at once. With chess in particular,
+in the work on Deep Blue at IBM, what became apparent,
+what computers could do on our problem like that was bringing
+a massive amount of compute resource to do deeper searches,
+to investigate more options of moves in chess than was previously possible.
+Watson defeating jeopardy. So this was another crossover point,
+in the development of AI and cognitive computing. That the questions that IBM was able to answer
+with jeopardy were questions that weren't
+simply looking up in the database, and finding the answer somewhere.
+Rather it required information retrieval over lots of different information resources.
+Then the combining of these together using machine learning that could
+arrive at answers that went beyond what was simply written somewhere.
+Now, our technology is so much better and so much more advanced that we're
+really ready to move on and to tackle much more challenging problems that
+have this ill-defined or messy nature. Every industry from oil and gas,
+to healthcare, to media and entertainment, to retail are just being
+swamped by a tsunami of unstructured data. That can be multimedia,
+can be images, it can be video, it can be text.
+It's really the ability to understand that data that is becoming critical.
+One of the most valuable applications of cognitive computing is in the health domain.
+Medical providers, physicians, nurses, assistants face enormous challenges,
+leveraging all of the available information that's out there.
+The medical literature increases by about 700,000 articles every year.
+There's already millions of journal articles out there,
+and today's imaging technologies produce very rich amount of information.
+In fact, a particular scan might have 5,000 images in it.
+You combine the image analysis with natural language understanding,
+and text analysis, leveraging the medical literature,
+leveraging the patient's medical history, the physician has got a lot
+more information and knowledge at their disposal to help them
+make the best diagnosis possible. Clearly, there is intersection
+of what the computer can do and what people are able to do.
+That gives you something that's better than each of them individually.
+What is going to be truly interesting is to see what is
+the best way for them to have really symbiotic type of interaction,
+taking advantage of each other's strengths to collectively solve a problem?
+Watson, it looks at another aspect of intelligence, and a much more difficult aspect
+of intelligence, that is language. You have to be able to interpret
+the questions and come up with the right answers no matter what the topic.
+So I think the ideal scenario for AI in the modern world
+is not to try and develop a system that completely autonomously
+handled every aspect of a problem, but have a collaboration
+between machines doing what they do best and people doing what they do
+best. I can imagine that combination will do
+better than either one by themselves. We're constantly here looking for
+what's the next grand challenge problem we can take on?
+That's not just around the corner or a year away,
+but it's going to take a multi-year effort. When we get there, we'll have something
+that's valuable for the world. (Music)

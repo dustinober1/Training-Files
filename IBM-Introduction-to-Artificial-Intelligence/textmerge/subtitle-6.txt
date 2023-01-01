@@ -1,0 +1,57 @@
+(Music) Before we deep dive
+into how AI works, and its various use
+cases and applications, let's differentiate some of
+the closely related terms and concepts of AI:
+artificial intelligence, machine learning, deep learning,
+and neural networks. These terms are sometimes
+used interchangeably, but they do not refer
+to the same thing. Artificial intelligence
+is a branch of computer science dealing with a simulation of
+intelligent behavior. AI systems will typically demonstrate
+behaviors associated with human intelligence such as planning, learning, reasoning, problem-solving,
+knowledge representation, perception, motion, and manipulation, and to a lesser extent social
+intelligence and creativity. Machine learning is a subset of AI that uses computer algorithms to analyze data and make intelligent decisions based
+on what it has learned, without being
+explicitly programmed. Machine learning algorithms
+are trained with large sets of data and
+they learn from examples. They do not follow
+rules-based algorithms. Machine learning is what enables machines to solve
+problems on their own and make accurate predictions using the provided data. Deep learning is
+a specialized subset of Machine Learning that uses layered neural networks to simulate
+human decision-making. Deep learning algorithms
+can label and categorize information
+and identify patterns. It is what enables AI systems to continuously learn on the job, and improve the quality
+and accuracy of results by determining whether
+decisions were correct. Artificial neural networks
+often referred to simply as neural networks take inspiration from biological neural networks, although they work
+quite a bit differently. A neural network in AI is a collection of
+small computing units called neurons that take incoming data and learn to make
+decisions over time. Neural networks are often
+layered deep and are the reason deep learning
+algorithms become more efficient as the datasets
+increase in volume, as opposed to other machine
+learning algorithms that may plateau
+as data increases. Now that you have
+a broad understanding of the differences between
+some key AI concepts, there is one more differentiation that is important to understand, that between artificial
+intelligence and data science. Data science is the process
+and method for extracting knowledge and insights from large volumes of disparate data. It's an interdisciplinary field
+involving mathematics, statistical analysis,
+data visualization, machine learning, and more. It's what makes it
+possible for us to appropriate information,
+see patterns, find meaning from
+large volumes of data, and use it to make decisions
+that drive business. Data Science can use many of the AI techniques to
+derive insight from data. For example, it could use
+machine learning algorithms and even deep learning
+models to extract meaning and draw
+inferences from data. There is some intersection
+between AI and data science, but one is not
+a subset of the other. Rather, data science
+is a broad term that encompasses the entire data
+processing methodology. Well, AI includes everything
+that allows computers to learn how to solve problems and make
+intelligent decisions. Both AI and Data Science
+can involve the use of big data that is significantly
+large volumes of data. In the next few lessons, the terms machine learning, deep learning, and
+neural networks will be discussed in more detail. (Music)
