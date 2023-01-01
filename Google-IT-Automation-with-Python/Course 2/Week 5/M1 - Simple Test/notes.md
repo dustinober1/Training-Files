@@ -1,0 +1,7 @@
+- When you test software, you are really looking for defects.
+- The advantage of running automated test is that they will always get the same expected results if the software code is good.
+- The software code should behave the way you expect with as many possible values or test cases.
+- The most basic way of testing a sript is to use different parameters and get the exected results.
+- Codifying test into its own software and code that can be run to verify that our programs do what we expect them to do is automatic testing.
+- Using test cases simplifies the testing process, allowing us to verify the program's behavior repeatedly with many possible values.
+- The more complex out code becomes, the most values the use of software testing provides in managing errors.
